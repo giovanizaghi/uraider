@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: e66a3f80fb6b8a24bbd14a21de6454e3
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: 3_Tile001bmp_0_1_0_0_0_0
     100002: 3_Tile003bmp_0_1_0_0_0_0
@@ -9,24 +9,46 @@ ModelImporter:
     100006: Armature
     100008: default
     100010: //RootNode
+    100012: 3_Tile001bmp_0.1_0.0_0.0
+    100014: 3_Tile003bmp_0.1_0.0_0.0
+    100016: 6_Tile002bmp_0.1_0.0_0.0
+    100018: default_end
+    100020: Lamp
     400000: 3_Tile001bmp_0_1_0_0_0_0
     400002: 3_Tile003bmp_0_1_0_0_0_0
     400004: 6_Tile002bmp_0_1_0_0_0_0
     400006: Armature
     400008: default
     400010: //RootNode
+    400012: 3_Tile001bmp_0.1_0.0_0.0
+    400014: 3_Tile003bmp_0.1_0.0_0.0
+    400016: 6_Tile002bmp_0.1_0.0_0.0
+    400018: default_end
+    400020: Lamp
     2100000: 6_Tile002bmp_0_1_0_0_0_0__Tile002_png
     2100002: 3_Tile003bmp_0_1_0_0_0_0__Tile003_bmp
     2100004: 3_Tile001bmp_0_1_0_0_0_0__Tile001_bmp
     4300000: 6_Tile002bmp_0_1_0_0_0_0
     4300002: 3_Tile003bmp_0_1_0_0_0_0
     4300004: 3_Tile001bmp_0_1_0_0_0_0
+    4300006: 6_Tile002bmp_0.1_0.0_0.0
+    4300008: 3_Tile003bmp_0.1_0.0_0.0
+    4300010: 3_Tile001bmp_0.1_0.0_0.0
     7400000: Default Take
     9500000: //RootNode
+    10800000: Lamp
     13700000: 3_Tile001bmp_0_1_0_0_0_0
     13700002: 3_Tile003bmp_0_1_0_0_0_0
     13700004: 6_Tile002bmp_0_1_0_0_0_0
+    13700006: 3_Tile001bmp_0.1_0.0_0.0
+    13700008: 3_Tile003bmp_0.1_0.0_0.0
+    13700010: 6_Tile002bmp_0.1_0.0_0.0
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3_Tile001bmp_0.1_0.0_0.0
+    second: {fileID: 2100000, guid: a556888aacfdf7a44b4f6c670e09d7d8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -35,8 +57,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 3_Tile003bmp_0.1_0.0_0.0
+    second: {fileID: 2100000, guid: ae1a2662547272046be6a1a2974d9704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 3_Tile003bmp_0_1_0_0_0_0__Tile003_bmp
     second: {fileID: 2100000, guid: da415549b1bd51a4b9488dc35be1cec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6_Tile002bmp_0.1_0.0_0.0
+    second: {fileID: 2100000, guid: aec41262709a2df49ba5c7ca47f021c0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -75,6 +107,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -92,11 +125,16 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -111,7 +149,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

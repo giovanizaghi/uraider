@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 5fc2ccb424a009642ba0f5216efb56fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Model001_Material001
+    2100002: Model001_Material002
+    2100004: Model001_Material003
+    2100006: Model001_Material004
+    2100008: Model001_Material005
+    2100010: Model001_Material006
+    2100012: Model001_Material007
+    2100014: Model001_Material008
+    2100016: Model001_Material009
+    2100018: Model001_Material010
+    2100020: Model001_Material011
+    2100022: Model001_Material012
+    2100024: Model001_Material013
+    2100026: Model001_Material014
+    2100028: Model001_Material015
+    2100030: Model001_Material016
+    2100032: Model001_Material017
+    2100034: Model001_Material018
+    2100036: Model001_Material019
+    2100038: Model001_Material020
+    2100040: Model001_Material021
+    2100042: Model001_Material022
+    2100044: Model001_Material023
+    2100046: Model001_Material024
+    2100048: Model001_Material025
+    2100050: Model001_Material026
+    2100052: Model001_Material027
+    2100054: Model001_Material028
+    2100056: Model001_Material029
+    2100058: Model001_Material030
+    2100060: Model001_Material031
+    2100062: Model001_Material032
+    2100064: Model001_Material033
+    2100066: Model001_Material034
+    2100068: Model001_Material035
+    2100070: Model001_Material036
+    2100072: Model001_Material037
+    2100074: Model001_Material038
+    2100076: Model001_Material039
+    2100078: Model001_Material040
+    2100080: Model001_Material041
+    2100082: Model001_Material042
+    2100084: Model001_Material043
+    2100086: Model001_Material044
+    2100088: Model001_Material045
+    2100090: Model001_Material046
+    2100092: Model001_Material047
+    2100094: Model001_Material048
+    2100096: Model001_Material049
+    2100098: Model001_Material050
+    2100100: Model001_Material051
+    2100102: Model001_Material052
+    2100104: Model001_Material053
+    2100106: Model001_Material054
+    2100108: Model001_Material055
+    2100110: Model001_Material056
+    2100112: Model001_Material057
+    2100114: Model001_Material058
+    2100116: Model001_Material059
+    2100118: Model001_Material060
+    2100120: Model001_Material061
+    2100122: Model001_Material062
+    2100124: Model001_Material063
+    2100126: Model001_Material064
+    2100128: Model001_Material065
+    2100130: Model001_Material066
+    2100132: Model001_Material067
+    2100134: Model001_Material068
+    2100136: Model001_Material069
+    2100138: Model001_Material070
+    2100140: Model001_Material071
+    2100142: Model001_Material072
+    2100144: Model001_Material073
+    2100146: Model001_Material074
+    2100148: Model001_Material075
+    2100150: Model001_Material076
+    2100152: Model001_Material077
+    2100154: Model001_Material078
+    2100156: Model001_Material079
+    2100158: Model001_Material080
+    2100160: Model001_Material081
+    2100162: Model001_Material082
+    2100164: Model001_Material083
+    2100166: Model001_Material084
+    2100168: Model001_Material085
+    2100170: Model001_Material086
+    2100172: Model001_Material087
+    2100174: Model001_Material088
+    2100176: Model001_Material089
+    2100178: Model001_Material090
+    2100180: Model001_Material091
+    2100182: Model001_Material092
+    2100184: Model001_Material093
+    2100186: Model001_Material094
+    2100188: Model001_Material095
+    2100190: Model001_Material096
+    2100192: Model001_Material097
+    2100194: Model001_Material098
+    2100196: Model001_Material099
+    2100198: Model001_Material100
+    2100200: Model001_Material101
+    2100202: Model001_Material102
+    2100204: Model001_Material103
+    2100206: Model001_Material104
+    2100208: Model001_Material105
+    2100210: Model001_Material106
+    2100212: Model001_Material107
+    2100214: Model001_Material108
+    2100216: Model001_Material109
+    2100218: Model001_Material110
+    2100220: Model001_Material111
+    2100222: Model001_Material112
+    2100224: Model001_Material113
+    2100226: Model001_Material114
+    2100228: Model001_Material115
+    2100230: Model001_Material116
+    2100232: Model001_Material117
+    2100234: Model001_Material118
+    2100236: Model001_Material119
+    2100238: Model001_Material120
+    2100240: Model001_Material121
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: manoir
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

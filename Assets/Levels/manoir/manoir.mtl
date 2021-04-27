@@ -1,0 +1,363 @@
+newmtl Model001_Material001
+map_Kd co_mansion_officechair_0000148D.png
+
+newmtl Model001_Material002
+map_Kd co_mansion_officechair_0000148F.png
+
+newmtl Model001_Material003
+map_Kd co_mansion_officechair_00001490.png
+
+newmtl Model001_Material004
+map_Kd co_mansion_officechair_0000148E.png
+
+newmtl Model001_Material005
+map_Kd mansion1_0000139E.png
+
+newmtl Model001_Material006
+map_Kd mansion1_00001473.png
+
+newmtl Model001_Material007
+map_Kd mansion1_0000146F.png
+
+newmtl Model001_Material008
+map_Kd mansion1_000013A9.png
+
+newmtl Model001_Material009
+map_Kd mansion1_000013A9.png
+
+newmtl Model001_Material010
+map_Kd mansion1_000013B3.png
+
+newmtl Model001_Material011
+map_Kd mansion1_0000146B.png
+
+newmtl Model001_Material012
+map_Kd mansion1_000013D1.png
+
+newmtl Model001_Material013
+map_Kd mansion1_00001442.png
+
+newmtl Model001_Material014
+map_Kd mansion1_000013A7.png
+
+newmtl Model001_Material015
+map_Kd mansion1_00001453.png
+
+newmtl Model001_Material016
+map_Kd mansion1_0000145B.png
+
+newmtl Model001_Material017
+map_Kd mansion1_000013B2.png
+
+newmtl Model001_Material018
+map_Kd mansion1_0000140D.png
+
+newmtl Model001_Material019
+map_Kd mansion1_000013B2.png
+
+newmtl Model001_Material020
+map_Kd mansion1_0000140D.png
+
+newmtl Model001_Material021
+map_Kd mansion1_000013B2.png
+
+newmtl Model001_Material022
+map_Kd mansion1_0000146C.png
+
+newmtl Model001_Material023
+map_Kd mansion1_0000145C.png
+
+newmtl Model001_Material024
+map_Kd mansion1_000013A9.png
+
+newmtl Model001_Material025
+map_Kd mansion1_000013C6.png
+
+newmtl Model001_Material026
+map_Kd mansion1_000013A8.png
+
+newmtl Model001_Material027
+map_Kd mansion1_000013A7.png
+
+newmtl Model001_Material028
+map_Kd mansion1_0000140D.png
+
+newmtl Model001_Material029
+map_Kd mansion1_00001418.png
+
+newmtl Model001_Material030
+map_Kd mansion1_0000145F.png
+
+newmtl Model001_Material031
+map_Kd mansion1_0000142E.png
+
+newmtl Model001_Material032
+map_Kd mansion1_00001461.png
+
+newmtl Model001_Material033
+map_Kd mansion1_00001463.png
+
+newmtl Model001_Material034
+map_Kd mansion1_000013F5.png
+
+newmtl Model001_Material035
+map_Kd mansion1_00001465.png
+
+newmtl Model001_Material036
+map_Kd mansion1_00001467.png
+
+newmtl Model001_Material037
+map_Kd mansion1_00001469.png
+
+newmtl Model001_Material038
+map_Kd mansion1_0000143D.png
+
+newmtl Model001_Material039
+map_Kd mansion1_00001439.png
+
+newmtl Model001_Material040
+map_Kd mansion1_000013B2.png
+
+newmtl Model001_Material041
+map_Kd mansion1_0000146D.png
+
+newmtl Model001_Material042
+map_Kd mansion1_00001475.png
+
+newmtl Model001_Material043
+map_Kd mansion1_00001410.png
+
+newmtl Model001_Material044
+map_Kd mansion1_00001416.png
+
+newmtl Model001_Material045
+map_Kd mansion1_000013FA.png
+
+newmtl Model001_Material046
+map_Kd mansion1_00001414.png
+
+newmtl Model001_Material047
+map_Kd mansion1_00001477.png
+
+newmtl Model001_Material048
+map_Kd mansion1_00001459.png
+
+newmtl Model001_Material049
+map_Kd mansion1_00001457.png
+
+newmtl Model001_Material050
+map_Kd mansion1_000013A6.png
+
+newmtl Model001_Material051
+map_Kd mansion1_000013F5.png
+
+newmtl Model001_Material052
+map_Kd mansion1_000013F7.png
+
+newmtl Model001_Material053
+map_Kd mansion1_000013FC.png
+
+newmtl Model001_Material054
+map_Kd mansion1_000013B3.png
+
+newmtl Model001_Material055
+map_Kd mansion1_000013FA.png
+
+newmtl Model001_Material056
+map_Kd mansion1_000013FC.png
+
+newmtl Model001_Material057
+map_Kd mansion1_000013FE.png
+
+newmtl Model001_Material058
+map_Kd mansion1_00001401.png
+
+newmtl Model001_Material059
+map_Kd mansion1_00001404.png
+
+newmtl Model001_Material060
+map_Kd mansion1_0000139E.png
+
+newmtl Model001_Material061
+map_Kd mansion1_00001409.png
+
+newmtl Model001_Material062
+map_Kd mansion1_0000140B.png
+
+newmtl Model001_Material063
+map_Kd mansion1_0000140D.png
+
+newmtl Model001_Material064
+map_Kd mansion1_000013F7.png
+
+newmtl Model001_Material065
+map_Kd mansion1_000013B2.png
+
+newmtl Model001_Material066
+map_Kd mansion1_00001410.png
+
+newmtl Model001_Material067
+map_Kd mansion1_00001412.png
+
+newmtl Model001_Material068
+map_Kd mansion1_00001414.png
+
+newmtl Model001_Material069
+map_Kd mansion1_00001416.png
+
+newmtl Model001_Material070
+map_Kd mansion1_00001418.png
+
+newmtl Model001_Material071
+map_Kd mansion1_0000141A.png
+
+newmtl Model001_Material072
+map_Kd mansion1_0000141C.png
+
+newmtl Model001_Material073
+map_Kd mansion1_0000141E.png
+
+newmtl Model001_Material074
+map_Kd mansion1_00001420.png
+
+newmtl Model001_Material075
+map_Kd mansion1_000013FE.png
+
+newmtl Model001_Material076
+map_Kd mansion1_00001422.png
+
+newmtl Model001_Material077
+map_Kd mansion1_00001424.png
+
+newmtl Model001_Material078
+map_Kd mansion1_00001426.png
+
+newmtl Model001_Material079
+map_Kd mansion1_00001428.png
+
+newmtl Model001_Material080
+map_Kd mansion1_0000142A.png
+
+newmtl Model001_Material081
+map_Kd mansion1_0000142C.png
+
+newmtl Model001_Material082
+map_Kd mansion1_0000142E.png
+
+newmtl Model001_Material083
+map_Kd mansion1_00001430.png
+
+newmtl Model001_Material084
+map_Kd mansion1_00001432.png
+
+newmtl Model001_Material085
+map_Kd mansion1_00001434.png
+
+newmtl Model001_Material086
+map_Kd mansion1_00001404.png
+
+newmtl Model001_Material087
+map_Kd mansion1_00001436.png
+
+newmtl Model001_Material088
+map_Kd mansion1_000013DC.png
+
+newmtl Model001_Material089
+map_Kd mansion1_00001439.png
+
+newmtl Model001_Material090
+map_Kd mansion1_0000143B.png
+
+newmtl Model001_Material091
+map_Kd mansion1_0000143D.png
+
+newmtl Model001_Material092
+map_Kd mansion1_000013BA.png
+
+newmtl Model001_Material093
+map_Kd mansion1_00001440.png
+
+newmtl Model001_Material094
+map_Kd mansion1_00001443.png
+
+newmtl Model001_Material095
+map_Kd mansion1_00001445.png
+
+newmtl Model001_Material096
+map_Kd mansion1_00001447.png
+
+newmtl Model001_Material097
+map_Kd mansion1_00001400.png
+
+newmtl Model001_Material098
+map_Kd mansion1_00001449.png
+
+newmtl Model001_Material099
+map_Kd mansion1_0000144B.png
+
+newmtl Model001_Material100
+map_Kd mansion1_0000144D.png
+
+newmtl Model001_Material101
+map_Kd mansion1_000013A6.png
+
+newmtl Model001_Material102
+map_Kd mansion1_00001451.png
+
+newmtl Model001_Material103
+map_Kd mansion1_000013B2.png
+
+newmtl Model001_Material104
+map_Kd mansion1_0000140D.png
+
+newmtl Model001_Material105
+map_Kd mansion1_00001454.png
+
+newmtl Model001_Material106
+map_Kd mansion1_00001457.png
+
+newmtl Model001_Material107
+map_Kd mansion1_00001459.png
+
+newmtl Model001_Material108
+map_Kd mansion1_00001400.png
+
+newmtl Model001_Material109
+map_Kd mansion1_000013F3.png
+
+newmtl Model001_Material110
+map_Kd mansion1_000013F4.png
+
+newmtl Model001_Material111
+map_Kd mansion1_00001407.png
+
+newmtl Model001_Material112
+map_Kd mansion1_000013C5.png
+
+newmtl Model001_Material113
+map_Kd mansion1_000013C7.png
+
+newmtl Model001_Material114
+map_Kd mansion1_0000139F.png
+
+newmtl Model001_Material115
+map_Kd mansion1_000013CD.png
+
+newmtl Model001_Material116
+map_Kd mansion1_000013D2.png
+
+newmtl Model001_Material117
+map_Kd mansion1_000013CF.png
+
+newmtl Model001_Material118
+map_Kd mansion1_0000145E.png
+
+newmtl Model001_Material119
+map_Kd co_mansion_officechair_00001491.png
+
+newmtl Model001_Material120
+map_Kd mansion1_000013A9.png
+
+newmtl Model001_Material121
+map_Kd mansion1_00001471.png
+

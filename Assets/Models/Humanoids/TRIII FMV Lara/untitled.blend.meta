@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: bc44aa84bcff307418f048e9aaaa73df
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: 20_black_0_5_50_5
     100002: 20_boots_0_1_25_0
@@ -821,6 +821,1114 @@ ModelImporter:
     101630: unused_spine_upper_item_handgunright
     101632: unused_spine_upper_item_holsterleft
     101634: unused_spine_upper_item_holsterright
+    101636: 20_black_0.5_50_5
+    101638: 20_boots_0.1_25_0
+    101640: 20_glove2_0.5_100_0
+    101642: 20_glove_0.5_1.1_0
+    101644: 20_lace_0.2_0.3_0
+    101646: 20_shorts_0.1_6_0
+    101648: 20_socks_0.1_5_0
+    101650: 27_eyes_0.2_0_0
+    101652: 27_metal_0.2_0_0
+    101654: 27_mouth_0.1_0_0
+    101656: 27_shirt_0.1_0_0
+    101658: 6_arms_0.05_0_0
+    101660: 6_brown_0.2_0_0
+    101662: 6_handup_0.05_0_0
+    101664: 6_nail_0.5_0_0
+    101666: 6_skin_0.05_0_0
+    101668: 8_armsSnap2_0.1_0_0
+    101670: 8_armsSnap_0.1_0_0
+    101672: 8_armsthumb_0.1_0_0
+    101674: 8_face_0.05_0_0
+    101676: 8_legs_0.05_0_0
+    101678: arm left elbow
+    101680: arm left finger 1a
+    101682: arm left finger 1b
+    101684: arm left finger 1c
+    101686: arm left finger 1c_end
+    101688: arm left finger 2a
+    101690: arm left finger 2b
+    101692: arm left finger 2c
+    101694: arm left finger 2c_end
+    101696: arm left finger 3a
+    101698: arm left finger 3b
+    101700: arm left finger 3c
+    101702: arm left finger 3c_end
+    101704: arm left finger 4a
+    101706: arm left finger 4b
+    101708: arm left finger 4c
+    101710: arm left finger 4c_end
+    101712: arm left finger 5a
+    101714: arm left finger 5b
+    101716: arm left finger 5c
+    101718: arm left finger 5c_end
+    101720: arm left shoulder 1
+    101722: arm left shoulder 2
+    101724: arm left wrist
+    101726: arm right elbow
+    101728: arm right finger 1a
+    101730: arm right finger 1b
+    101732: arm right finger 1c
+    101734: arm right finger 1c_end
+    101736: arm right finger 2a
+    101738: arm right finger 2b
+    101740: arm right finger 2c
+    101742: arm right finger 2c_end
+    101744: arm right finger 3a
+    101746: arm right finger 3b
+    101748: arm right finger 3c
+    101750: arm right finger 3c_end
+    101752: arm right finger 4a
+    101754: arm right finger 4b
+    101756: arm right finger 4c
+    101758: arm right finger 4c_end
+    101760: arm right finger 5a
+    101762: arm right finger 5b
+    101764: arm right finger 5c
+    101766: arm right finger 5c_end
+    101768: arm right shoulder 1
+    101770: arm right shoulder 2
+    101772: arm right wrist
+    101774: breast left
+    101776: breast left_end
+    101778: breast right
+    101780: breast right_end
+    101782: hair 1 left front 1
+    101784: hair 1 left front 2
+    101786: hair 1 left front 3
+    101788: hair 1 left front 4
+    101790: hair 1 left front 5
+    101792: hair 1 left front 5_end
+    101794: hair 1 right front 1
+    101796: hair 1 right front 2
+    101798: hair 1 right front 3
+    101800: hair 1 right front 4
+    101802: hair 1 right front 5
+    101804: hair 1 right front 5_end
+    101806: hair 2 left front 1
+    101808: hair 2 left front 2
+    101810: hair 2 left front 3
+    101812: hair 2 left front 4
+    101814: hair 2 left front 5
+    101816: hair 2 left front 5_end
+    101818: hair 2 right front 1
+    101820: hair 2 right front 2
+    101822: hair 2 right front 3
+    101824: hair 2 right front 4
+    101826: hair 2 right front 5
+    101828: hair 2 right front 5_end
+    101830: hair 3 left front 1
+    101832: hair 3 left front 2
+    101834: hair 3 left front 3
+    101836: hair 3 left front 4
+    101838: hair 3 left front 4_end
+    101840: hair 3 right front 1
+    101842: hair 3 right front 2
+    101844: hair 3 right front 3
+    101846: hair 3 right front 4
+    101848: hair 3 right front 4_end
+    101850: hair 4 left front 1
+    101852: hair 4 left front 2
+    101854: hair 4 left front 3
+    101856: hair 4 left front 4
+    101858: hair 4 left front 5
+    101860: hair 4 left front 5_end
+    101862: hair 4 right front 1
+    101864: hair 4 right front 2
+    101866: hair 4 right front 3
+    101868: hair 4 right front 4
+    101870: hair 4 right front 5
+    101872: hair 4 right front 5_end
+    101874: hair front left
+    101876: hair front right
+    101878: hair ponytail 0
+    101880: hair ponytail 1
+    101882: hair ponytail 10
+    101884: hair ponytail 11
+    101886: hair ponytail 11_end
+    101888: hair ponytail 2
+    101890: hair ponytail 3
+    101892: hair ponytail 4
+    101894: hair ponytail 5
+    101896: hair ponytail 7
+    101898: hair ponytail 8
+    101900: hair ponytail 9
+    101902: handgun left
+    101904: handgun right
+    101906: head eyeball left
+    101908: head eyeball left_end
+    101910: head eyeball right
+    101912: head eyeball right_end
+    101914: head eyebrow left 1
+    101916: head eyebrow left 1_end
+    101918: head eyebrow left 2
+    101920: head eyebrow left 2_end
+    101922: head eyebrow left 3
+    101924: head eyebrow left 3_end
+    101926: head eyebrow right 1
+    101928: head eyebrow right 1_end
+    101930: head eyebrow right 2
+    101932: head eyebrow right 2_end
+    101934: head eyebrow right 3
+    101936: head eyebrow right 3_end
+    101938: head eyelid left lower
+    101940: head eyelid left lower_end
+    101942: head eyelid left upper
+    101944: head eyelid left upper_end
+    101946: head eyelid right lower
+    101948: head eyelid right lower_end
+    101950: head eyelid right upper
+    101952: head eyelid right upper_end
+    101954: head jaw
+    101956: head lip lower left
+    101958: head lip lower left_end
+    101960: head lip lower middle
+    101962: head lip lower middle_end
+    101964: head lip lower right
+    101966: head lip lower right_end
+    101968: head lip upper left
+    101970: head lip upper left_end
+    101972: head lip upper middle
+    101974: head lip upper middle_end
+    101976: head lip upper right
+    101978: head lip upper right_end
+    101980: head mouth corner left
+    101982: head mouth corner left_end
+    101984: head mouth corner right
+    101986: head mouth corner right_end
+    101988: head neck lower
+    101990: head neck upper
+    101992: holster left
+    101994: holster right
+    101996: leg left ankle
+    101998: leg left knee
+    102000: leg left thigh
+    102002: leg left toes
+    102004: leg left toes_end
+    102006: leg right ankle
+    102008: leg right knee
+    102010: leg right thigh
+    102012: leg right toes
+    102014: leg right toes_end
+    102016: root ground
+    102018: root hips
+    102020: spine lower
+    102022: spine upper
+    102024: unused arm left elbow
+    102026: unused arm left elbow item_handgunleft
+    102028: unused arm left elbow item_handgunright
+    102030: unused arm left elbow item_holsterleft
+    102032: unused arm left elbow item_holsterright
+    102034: unused arm left finger 1a
+    102036: unused arm left finger 1a item_handgunleft
+    102038: unused arm left finger 1a item_handgunright
+    102040: unused arm left finger 1a item_holsterleft
+    102042: unused arm left finger 1a item_holsterright
+    102044: unused arm left finger 1b
+    102046: unused arm left finger 1b item_handgunleft
+    102048: unused arm left finger 1b item_handgunright
+    102050: unused arm left finger 1b item_holsterleft
+    102052: unused arm left finger 1b item_holsterright
+    102054: unused arm left finger 1c
+    102056: unused arm left finger 1c item_handgunleft
+    102058: unused arm left finger 1c item_handgunleft_end
+    102060: unused arm left finger 1c item_handgunright
+    102062: unused arm left finger 1c item_handgunright_end
+    102064: unused arm left finger 1c item_holsterleft
+    102066: unused arm left finger 1c item_holsterleft_end
+    102068: unused arm left finger 1c item_holsterright
+    102070: unused arm left finger 1c item_holsterright_end
+    102072: unused arm left finger 1c_end
+    102074: unused arm left finger 2a
+    102076: unused arm left finger 2a item_handgunleft
+    102078: unused arm left finger 2a item_handgunright
+    102080: unused arm left finger 2a item_holsterleft
+    102082: unused arm left finger 2a item_holsterright
+    102084: unused arm left finger 2b
+    102086: unused arm left finger 2b item_handgunleft
+    102088: unused arm left finger 2b item_handgunright
+    102090: unused arm left finger 2b item_holsterleft
+    102092: unused arm left finger 2b item_holsterright
+    102094: unused arm left finger 2c
+    102096: unused arm left finger 2c item_handgunleft
+    102098: unused arm left finger 2c item_handgunleft_end
+    102100: unused arm left finger 2c item_handgunright
+    102102: unused arm left finger 2c item_handgunright_end
+    102104: unused arm left finger 2c item_holsterleft
+    102106: unused arm left finger 2c item_holsterleft_end
+    102108: unused arm left finger 2c item_holsterright
+    102110: unused arm left finger 2c item_holsterright_end
+    102112: unused arm left finger 2c_end
+    102114: unused arm left finger 3a
+    102116: unused arm left finger 3a item_handgunleft
+    102118: unused arm left finger 3a item_handgunright
+    102120: unused arm left finger 3a item_holsterleft
+    102122: unused arm left finger 3a item_holsterright
+    102124: unused arm left finger 3b
+    102126: unused arm left finger 3b item_handgunleft
+    102128: unused arm left finger 3b item_handgunright
+    102130: unused arm left finger 3b item_holsterleft
+    102132: unused arm left finger 3b item_holsterright
+    102134: unused arm left finger 3c
+    102136: unused arm left finger 3c item_handgunleft
+    102138: unused arm left finger 3c item_handgunleft_end
+    102140: unused arm left finger 3c item_handgunright
+    102142: unused arm left finger 3c item_handgunright_end
+    102144: unused arm left finger 3c item_holsterleft
+    102146: unused arm left finger 3c item_holsterleft_end
+    102148: unused arm left finger 3c item_holsterright
+    102150: unused arm left finger 3c item_holsterright_end
+    102152: unused arm left finger 3c_end
+    102154: unused arm left finger 4a
+    102156: unused arm left finger 4a item_handgunleft
+    102158: unused arm left finger 4a item_handgunright
+    102160: unused arm left finger 4a item_holsterleft
+    102162: unused arm left finger 4a item_holsterright
+    102164: unused arm left finger 4b
+    102166: unused arm left finger 4b item_handgunleft
+    102168: unused arm left finger 4b item_handgunright
+    102170: unused arm left finger 4b item_holsterleft
+    102172: unused arm left finger 4b item_holsterright
+    102174: unused arm left finger 4c
+    102176: unused arm left finger 4c item_handgunleft
+    102178: unused arm left finger 4c item_handgunleft_end
+    102180: unused arm left finger 4c item_handgunright
+    102182: unused arm left finger 4c item_handgunright_end
+    102184: unused arm left finger 4c item_holsterleft
+    102186: unused arm left finger 4c item_holsterleft_end
+    102188: unused arm left finger 4c item_holsterright
+    102190: unused arm left finger 4c item_holsterright_end
+    102192: unused arm left finger 4c_end
+    102194: unused arm left finger 5a
+    102196: unused arm left finger 5a item_handgunleft
+    102198: unused arm left finger 5a item_handgunright
+    102200: unused arm left finger 5a item_holsterleft
+    102202: unused arm left finger 5a item_holsterright
+    102204: unused arm left finger 5b
+    102206: unused arm left finger 5b item_handgunleft
+    102208: unused arm left finger 5b item_handgunright
+    102210: unused arm left finger 5b item_holsterleft
+    102212: unused arm left finger 5b item_holsterright
+    102214: unused arm left finger 5c
+    102216: unused arm left finger 5c item_handgunleft
+    102218: unused arm left finger 5c item_handgunleft_end
+    102220: unused arm left finger 5c item_handgunright
+    102222: unused arm left finger 5c item_handgunright_end
+    102224: unused arm left finger 5c item_holsterleft
+    102226: unused arm left finger 5c item_holsterleft_end
+    102228: unused arm left finger 5c item_holsterright
+    102230: unused arm left finger 5c item_holsterright_end
+    102232: unused arm left finger 5c_end
+    102234: unused arm left shoulder 1
+    102236: unused arm left shoulder 1 item_handgunleft
+    102238: unused arm left shoulder 1 item_handgunright
+    102240: unused arm left shoulder 1 item_holsterleft
+    102242: unused arm left shoulder 1 item_holsterright
+    102244: unused arm left shoulder 2
+    102246: unused arm left shoulder 2 item_handgunleft
+    102248: unused arm left shoulder 2 item_handgunright
+    102250: unused arm left shoulder 2 item_holsterleft
+    102252: unused arm left shoulder 2 item_holsterright
+    102254: unused arm left wrist
+    102256: unused arm left wrist attached_handgunleft root ground
+    102258: unused arm left wrist attached_handgunleft root hips
+    102260: unused arm left wrist item_handgunright
+    102262: unused arm left wrist item_holsterleft
+    102264: unused arm left wrist item_holsterright
+    102266: unused arm right elbow
+    102268: unused arm right elbow item_handgunleft
+    102270: unused arm right elbow item_handgunright
+    102272: unused arm right elbow item_holsterleft
+    102274: unused arm right elbow item_holsterright
+    102276: unused arm right finger 1a
+    102278: unused arm right finger 1a item_handgunleft
+    102280: unused arm right finger 1a item_handgunright
+    102282: unused arm right finger 1a item_holsterleft
+    102284: unused arm right finger 1a item_holsterright
+    102286: unused arm right finger 1b
+    102288: unused arm right finger 1b item_handgunleft
+    102290: unused arm right finger 1b item_handgunright
+    102292: unused arm right finger 1b item_holsterleft
+    102294: unused arm right finger 1b item_holsterright
+    102296: unused arm right finger 1c
+    102298: unused arm right finger 1c item_handgunleft
+    102300: unused arm right finger 1c item_handgunleft_end
+    102302: unused arm right finger 1c item_handgunright
+    102304: unused arm right finger 1c item_handgunright_end
+    102306: unused arm right finger 1c item_holsterleft
+    102308: unused arm right finger 1c item_holsterleft_end
+    102310: unused arm right finger 1c item_holsterright
+    102312: unused arm right finger 1c item_holsterright_end
+    102314: unused arm right finger 1c_end
+    102316: unused arm right finger 2a
+    102318: unused arm right finger 2a item_handgunleft
+    102320: unused arm right finger 2a item_handgunright
+    102322: unused arm right finger 2a item_holsterleft
+    102324: unused arm right finger 2a item_holsterright
+    102326: unused arm right finger 2b
+    102328: unused arm right finger 2b item_handgunleft
+    102330: unused arm right finger 2b item_handgunright
+    102332: unused arm right finger 2b item_holsterleft
+    102334: unused arm right finger 2b item_holsterright
+    102336: unused arm right finger 2c
+    102338: unused arm right finger 2c item_handgunleft
+    102340: unused arm right finger 2c item_handgunleft_end
+    102342: unused arm right finger 2c item_handgunright
+    102344: unused arm right finger 2c item_handgunright_end
+    102346: unused arm right finger 2c item_holsterleft
+    102348: unused arm right finger 2c item_holsterleft_end
+    102350: unused arm right finger 2c item_holsterright
+    102352: unused arm right finger 2c item_holsterright_end
+    102354: unused arm right finger 2c_end
+    102356: unused arm right finger 3a
+    102358: unused arm right finger 3a item_handgunleft
+    102360: unused arm right finger 3a item_handgunright
+    102362: unused arm right finger 3a item_holsterleft
+    102364: unused arm right finger 3a item_holsterright
+    102366: unused arm right finger 3b
+    102368: unused arm right finger 3b item_handgunleft
+    102370: unused arm right finger 3b item_handgunright
+    102372: unused arm right finger 3b item_holsterleft
+    102374: unused arm right finger 3b item_holsterright
+    102376: unused arm right finger 3c
+    102378: unused arm right finger 3c item_handgunleft
+    102380: unused arm right finger 3c item_handgunleft_end
+    102382: unused arm right finger 3c item_handgunright
+    102384: unused arm right finger 3c item_handgunright_end
+    102386: unused arm right finger 3c item_holsterleft
+    102388: unused arm right finger 3c item_holsterleft_end
+    102390: unused arm right finger 3c item_holsterright
+    102392: unused arm right finger 3c item_holsterright_end
+    102394: unused arm right finger 3c_end
+    102396: unused arm right finger 4a
+    102398: unused arm right finger 4a item_handgunleft
+    102400: unused arm right finger 4a item_handgunright
+    102402: unused arm right finger 4a item_holsterleft
+    102404: unused arm right finger 4a item_holsterright
+    102406: unused arm right finger 4b
+    102408: unused arm right finger 4b item_handgunleft
+    102410: unused arm right finger 4b item_handgunright
+    102412: unused arm right finger 4b item_holsterleft
+    102414: unused arm right finger 4b item_holsterright
+    102416: unused arm right finger 4c
+    102418: unused arm right finger 4c item_handgunleft
+    102420: unused arm right finger 4c item_handgunleft_end
+    102422: unused arm right finger 4c item_handgunright
+    102424: unused arm right finger 4c item_handgunright_end
+    102426: unused arm right finger 4c item_holsterleft
+    102428: unused arm right finger 4c item_holsterleft_end
+    102430: unused arm right finger 4c item_holsterright
+    102432: unused arm right finger 4c item_holsterright_end
+    102434: unused arm right finger 4c_end
+    102436: unused arm right finger 5a
+    102438: unused arm right finger 5a item_handgunleft
+    102440: unused arm right finger 5a item_handgunright
+    102442: unused arm right finger 5a item_holsterleft
+    102444: unused arm right finger 5a item_holsterright
+    102446: unused arm right finger 5b
+    102448: unused arm right finger 5b item_handgunleft
+    102450: unused arm right finger 5b item_handgunright
+    102452: unused arm right finger 5b item_holsterleft
+    102454: unused arm right finger 5b item_holsterright
+    102456: unused arm right finger 5c
+    102458: unused arm right finger 5c item_handgunleft
+    102460: unused arm right finger 5c item_handgunleft_end
+    102462: unused arm right finger 5c item_handgunright
+    102464: unused arm right finger 5c item_handgunright_end
+    102466: unused arm right finger 5c item_holsterleft
+    102468: unused arm right finger 5c item_holsterleft_end
+    102470: unused arm right finger 5c item_holsterright
+    102472: unused arm right finger 5c item_holsterright_end
+    102474: unused arm right finger 5c_end
+    102476: unused arm right shoulder 1
+    102478: unused arm right shoulder 1 item_handgunleft
+    102480: unused arm right shoulder 1 item_handgunright
+    102482: unused arm right shoulder 1 item_holsterleft
+    102484: unused arm right shoulder 1 item_holsterright
+    102486: unused arm right shoulder 2
+    102488: unused arm right shoulder 2 item_handgunleft
+    102490: unused arm right shoulder 2 item_handgunright
+    102492: unused arm right shoulder 2 item_holsterleft
+    102494: unused arm right shoulder 2 item_holsterright
+    102496: unused arm right wrist
+    102498: unused arm right wrist attached_handgunright root ground
+    102500: unused arm right wrist attached_handgunright root hips
+    102502: unused arm right wrist item_handgunleft
+    102504: unused arm right wrist item_holsterleft
+    102506: unused arm right wrist item_holsterright
+    102508: unused breast left item_Arms
+    102510: unused breast left item_handgunleft
+    102512: unused breast left item_handgunleft_end
+    102514: unused breast left item_handgunright
+    102516: unused breast left item_handgunright_end
+    102518: unused breast left item_holsterleft
+    102520: unused breast left item_holsterleft_end
+    102522: unused breast left item_holsterright
+    102524: unused breast left item_holsterright_end
+    102526: unused breast right item_Arms
+    102528: unused breast right item_handgunleft
+    102530: unused breast right item_handgunleft_end
+    102532: unused breast right item_handgunright
+    102534: unused breast right item_handgunright_end
+    102536: unused breast right item_holsterleft
+    102538: unused breast right item_holsterleft_end
+    102540: unused breast right item_holsterright
+    102542: unused breast right item_holsterright_end
+    102544: unused hair 1 left front 1 item_handgunleft
+    102546: unused hair 1 left front 1 item_handgunright
+    102548: unused hair 1 left front 1 item_holsterleft
+    102550: unused hair 1 left front 1 item_holsterright
+    102552: unused hair 1 left front 2 item_handgunleft
+    102554: unused hair 1 left front 2 item_handgunright
+    102556: unused hair 1 left front 2 item_holsterleft
+    102558: unused hair 1 left front 2 item_holsterright
+    102560: unused hair 1 left front 3 item_handgunleft
+    102562: unused hair 1 left front 3 item_handgunright
+    102564: unused hair 1 left front 3 item_holsterleft
+    102566: unused hair 1 left front 3 item_holsterright
+    102568: unused hair 1 left front 4 item_handgunleft
+    102570: unused hair 1 left front 4 item_handgunright
+    102572: unused hair 1 left front 4 item_holsterleft
+    102574: unused hair 1 left front 4 item_holsterright
+    102576: unused hair 1 left front 5 item_handgunleft
+    102578: unused hair 1 left front 5 item_handgunleft_end
+    102580: unused hair 1 left front 5 item_handgunright
+    102582: unused hair 1 left front 5 item_handgunright_end
+    102584: unused hair 1 left front 5 item_holsterleft
+    102586: unused hair 1 left front 5 item_holsterleft_end
+    102588: unused hair 1 left front 5 item_holsterright
+    102590: unused hair 1 left front 5 item_holsterright_end
+    102592: unused hair 1 right front 1 item_handgunleft
+    102594: unused hair 1 right front 1 item_handgunright
+    102596: unused hair 1 right front 1 item_holsterleft
+    102598: unused hair 1 right front 1 item_holsterright
+    102600: unused hair 1 right front 2 item_handgunleft
+    102602: unused hair 1 right front 2 item_handgunright
+    102604: unused hair 1 right front 2 item_holsterleft
+    102606: unused hair 1 right front 2 item_holsterright
+    102608: unused hair 1 right front 3 item_handgunleft
+    102610: unused hair 1 right front 3 item_handgunright
+    102612: unused hair 1 right front 3 item_holsterleft
+    102614: unused hair 1 right front 3 item_holsterright
+    102616: unused hair 1 right front 4 item_handgunleft
+    102618: unused hair 1 right front 4 item_handgunright
+    102620: unused hair 1 right front 4 item_holsterleft
+    102622: unused hair 1 right front 4 item_holsterright
+    102624: unused hair 1 right front 5 item_handgunleft
+    102626: unused hair 1 right front 5 item_handgunleft_end
+    102628: unused hair 1 right front 5 item_handgunright
+    102630: unused hair 1 right front 5 item_handgunright_end
+    102632: unused hair 1 right front 5 item_holsterleft
+    102634: unused hair 1 right front 5 item_holsterleft_end
+    102636: unused hair 1 right front 5 item_holsterright
+    102638: unused hair 1 right front 5 item_holsterright_end
+    102640: unused hair 2 left front 1 item_handgunleft
+    102642: unused hair 2 left front 1 item_handgunright
+    102644: unused hair 2 left front 1 item_holsterleft
+    102646: unused hair 2 left front 1 item_holsterright
+    102648: unused hair 2 left front 2 item_handgunleft
+    102650: unused hair 2 left front 2 item_handgunright
+    102652: unused hair 2 left front 2 item_holsterleft
+    102654: unused hair 2 left front 2 item_holsterright
+    102656: unused hair 2 left front 3 item_handgunleft
+    102658: unused hair 2 left front 3 item_handgunright
+    102660: unused hair 2 left front 3 item_holsterleft
+    102662: unused hair 2 left front 3 item_holsterright
+    102664: unused hair 2 left front 4 item_handgunleft
+    102666: unused hair 2 left front 4 item_handgunright
+    102668: unused hair 2 left front 4 item_holsterleft
+    102670: unused hair 2 left front 4 item_holsterright
+    102672: unused hair 2 left front 5 item_handgunleft
+    102674: unused hair 2 left front 5 item_handgunleft_end
+    102676: unused hair 2 left front 5 item_handgunright
+    102678: unused hair 2 left front 5 item_handgunright_end
+    102680: unused hair 2 left front 5 item_holsterleft
+    102682: unused hair 2 left front 5 item_holsterleft_end
+    102684: unused hair 2 left front 5 item_holsterright
+    102686: unused hair 2 left front 5 item_holsterright_end
+    102688: unused hair 2 right front 1 item_handgunleft
+    102690: unused hair 2 right front 1 item_handgunright
+    102692: unused hair 2 right front 1 item_holsterleft
+    102694: unused hair 2 right front 1 item_holsterright
+    102696: unused hair 2 right front 2 item_handgunleft
+    102698: unused hair 2 right front 2 item_handgunright
+    102700: unused hair 2 right front 2 item_holsterleft
+    102702: unused hair 2 right front 2 item_holsterright
+    102704: unused hair 2 right front 3 item_handgunleft
+    102706: unused hair 2 right front 3 item_handgunright
+    102708: unused hair 2 right front 3 item_holsterleft
+    102710: unused hair 2 right front 3 item_holsterright
+    102712: unused hair 2 right front 4 item_handgunleft
+    102714: unused hair 2 right front 4 item_handgunright
+    102716: unused hair 2 right front 4 item_holsterleft
+    102718: unused hair 2 right front 4 item_holsterright
+    102720: unused hair 2 right front 5 item_handgunleft
+    102722: unused hair 2 right front 5 item_handgunleft_end
+    102724: unused hair 2 right front 5 item_handgunright
+    102726: unused hair 2 right front 5 item_handgunright_end
+    102728: unused hair 2 right front 5 item_holsterleft
+    102730: unused hair 2 right front 5 item_holsterleft_end
+    102732: unused hair 2 right front 5 item_holsterright
+    102734: unused hair 2 right front 5 item_holsterright_end
+    102736: unused hair 3 left front 1 item_handgunleft
+    102738: unused hair 3 left front 1 item_handgunright
+    102740: unused hair 3 left front 1 item_holsterleft
+    102742: unused hair 3 left front 1 item_holsterright
+    102744: unused hair 3 left front 2 item_handgunleft
+    102746: unused hair 3 left front 2 item_handgunright
+    102748: unused hair 3 left front 2 item_holsterleft
+    102750: unused hair 3 left front 2 item_holsterright
+    102752: unused hair 3 left front 3 item_handgunleft
+    102754: unused hair 3 left front 3 item_handgunright
+    102756: unused hair 3 left front 3 item_holsterleft
+    102758: unused hair 3 left front 3 item_holsterright
+    102760: unused hair 3 left front 4 item_handgunleft
+    102762: unused hair 3 left front 4 item_handgunleft_end
+    102764: unused hair 3 left front 4 item_handgunright
+    102766: unused hair 3 left front 4 item_handgunright_end
+    102768: unused hair 3 left front 4 item_holsterleft
+    102770: unused hair 3 left front 4 item_holsterleft_end
+    102772: unused hair 3 left front 4 item_holsterright
+    102774: unused hair 3 left front 4 item_holsterright_end
+    102776: unused hair 3 right front 1 item_handgunleft
+    102778: unused hair 3 right front 1 item_handgunright
+    102780: unused hair 3 right front 1 item_holsterleft
+    102782: unused hair 3 right front 1 item_holsterright
+    102784: unused hair 3 right front 2 item_handgunleft
+    102786: unused hair 3 right front 2 item_handgunright
+    102788: unused hair 3 right front 2 item_holsterleft
+    102790: unused hair 3 right front 2 item_holsterright
+    102792: unused hair 3 right front 3 item_handgunleft
+    102794: unused hair 3 right front 3 item_handgunright
+    102796: unused hair 3 right front 3 item_holsterleft
+    102798: unused hair 3 right front 3 item_holsterright
+    102800: unused hair 3 right front 4 item_handgunleft
+    102802: unused hair 3 right front 4 item_handgunleft_end
+    102804: unused hair 3 right front 4 item_handgunright
+    102806: unused hair 3 right front 4 item_handgunright_end
+    102808: unused hair 3 right front 4 item_holsterleft
+    102810: unused hair 3 right front 4 item_holsterleft_end
+    102812: unused hair 3 right front 4 item_holsterright
+    102814: unused hair 3 right front 4 item_holsterright_end
+    102816: unused hair 4 left front 1 item_handgunleft
+    102818: unused hair 4 left front 1 item_handgunright
+    102820: unused hair 4 left front 1 item_holsterleft
+    102822: unused hair 4 left front 1 item_holsterright
+    102824: unused hair 4 left front 2 item_handgunleft
+    102826: unused hair 4 left front 2 item_handgunright
+    102828: unused hair 4 left front 2 item_holsterleft
+    102830: unused hair 4 left front 2 item_holsterright
+    102832: unused hair 4 left front 3 item_handgunleft
+    102834: unused hair 4 left front 3 item_handgunright
+    102836: unused hair 4 left front 3 item_holsterleft
+    102838: unused hair 4 left front 3 item_holsterright
+    102840: unused hair 4 left front 4 item_handgunleft
+    102842: unused hair 4 left front 4 item_handgunright
+    102844: unused hair 4 left front 4 item_holsterleft
+    102846: unused hair 4 left front 4 item_holsterright
+    102848: unused hair 4 left front 5 item_handgunleft
+    102850: unused hair 4 left front 5 item_handgunleft_end
+    102852: unused hair 4 left front 5 item_handgunright
+    102854: unused hair 4 left front 5 item_handgunright_end
+    102856: unused hair 4 left front 5 item_holsterleft
+    102858: unused hair 4 left front 5 item_holsterleft_end
+    102860: unused hair 4 left front 5 item_holsterright
+    102862: unused hair 4 left front 5 item_holsterright_end
+    102864: unused hair 4 right front 1 item_handgunleft
+    102866: unused hair 4 right front 1 item_handgunright
+    102868: unused hair 4 right front 1 item_holsterleft
+    102870: unused hair 4 right front 1 item_holsterright
+    102872: unused hair 4 right front 2 item_handgunleft
+    102874: unused hair 4 right front 2 item_handgunright
+    102876: unused hair 4 right front 2 item_holsterleft
+    102878: unused hair 4 right front 2 item_holsterright
+    102880: unused hair 4 right front 3 item_handgunleft
+    102882: unused hair 4 right front 3 item_handgunright
+    102884: unused hair 4 right front 3 item_holsterleft
+    102886: unused hair 4 right front 3 item_holsterright
+    102888: unused hair 4 right front 4 item_handgunleft
+    102890: unused hair 4 right front 4 item_handgunright
+    102892: unused hair 4 right front 4 item_holsterleft
+    102894: unused hair 4 right front 4 item_holsterright
+    102896: unused hair 4 right front 5 item_handgunleft
+    102898: unused hair 4 right front 5 item_handgunleft_end
+    102900: unused hair 4 right front 5 item_handgunright
+    102902: unused hair 4 right front 5 item_handgunright_end
+    102904: unused hair 4 right front 5 item_holsterleft
+    102906: unused hair 4 right front 5 item_holsterleft_end
+    102908: unused hair 4 right front 5 item_holsterright
+    102910: unused hair 4 right front 5 item_holsterright_end
+    102912: unused hair front left item_Arms
+    102914: unused hair front left item_handgunleft
+    102916: unused hair front left item_handgunright
+    102918: unused hair front left item_holsterleft
+    102920: unused hair front left item_holsterright
+    102922: unused hair front right item_Arms
+    102924: unused hair front right item_handgunleft
+    102926: unused hair front right item_handgunright
+    102928: unused hair front right item_holsterleft
+    102930: unused hair front right item_holsterright
+    102932: unused hair ponytail 0 item_Arms
+    102934: unused hair ponytail 0 item_handgunleft
+    102936: unused hair ponytail 0 item_handgunright
+    102938: unused hair ponytail 0 item_holsterleft
+    102940: unused hair ponytail 0 item_holsterright
+    102942: unused hair ponytail 1 item_Arms
+    102944: unused hair ponytail 1 item_handgunleft
+    102946: unused hair ponytail 1 item_handgunright
+    102948: unused hair ponytail 1 item_holsterleft
+    102950: unused hair ponytail 1 item_holsterright
+    102952: unused hair ponytail 10 item_handgunleft
+    102954: unused hair ponytail 10 item_handgunright
+    102956: unused hair ponytail 10 item_holsterleft
+    102958: unused hair ponytail 10 item_holsterright
+    102960: unused hair ponytail 11 item_handgunleft
+    102962: unused hair ponytail 11 item_handgunleft_end
+    102964: unused hair ponytail 11 item_handgunright
+    102966: unused hair ponytail 11 item_handgunright_end
+    102968: unused hair ponytail 11 item_holsterleft
+    102970: unused hair ponytail 11 item_holsterleft_end
+    102972: unused hair ponytail 11 item_holsterright
+    102974: unused hair ponytail 11 item_holsterright_end
+    102976: unused hair ponytail 2 item_Arms
+    102978: unused hair ponytail 2 item_handgunleft
+    102980: unused hair ponytail 2 item_handgunright
+    102982: unused hair ponytail 2 item_holsterleft
+    102984: unused hair ponytail 2 item_holsterright
+    102986: unused hair ponytail 3 item_Arms
+    102988: unused hair ponytail 3 item_handgunleft
+    102990: unused hair ponytail 3 item_handgunright
+    102992: unused hair ponytail 3 item_holsterleft
+    102994: unused hair ponytail 3 item_holsterright
+    102996: unused hair ponytail 4 item_Arms
+    102998: unused hair ponytail 4 item_handgunleft
+    103000: unused hair ponytail 4 item_handgunright
+    103002: unused hair ponytail 4 item_holsterleft
+    103004: unused hair ponytail 4 item_holsterright
+    103006: unused hair ponytail 5 item_Arms
+    103008: unused hair ponytail 5 item_handgunleft
+    103010: unused hair ponytail 5 item_handgunright
+    103012: unused hair ponytail 5 item_holsterleft
+    103014: unused hair ponytail 5 item_holsterright
+    103016: unused hair ponytail 6 item_Arms
+    103018: unused hair ponytail 7 item_Arms
+    103020: unused hair ponytail 7 item_Arms_end
+    103022: unused hair ponytail 7 item_handgunleft
+    103024: unused hair ponytail 7 item_handgunright
+    103026: unused hair ponytail 7 item_holsterleft
+    103028: unused hair ponytail 7 item_holsterright
+    103030: unused hair ponytail 8 item_handgunleft
+    103032: unused hair ponytail 8 item_handgunright
+    103034: unused hair ponytail 8 item_holsterleft
+    103036: unused hair ponytail 8 item_holsterright
+    103038: unused hair ponytail 9 item_handgunleft
+    103040: unused hair ponytail 9 item_handgunright
+    103042: unused hair ponytail 9 item_holsterleft
+    103044: unused hair ponytail 9 item_holsterright
+    103046: unused head cheek left 1 item_Arms
+    103048: unused head cheek left 1 item_Arms_end
+    103050: unused head cheek left 2 item_Arms
+    103052: unused head cheek left 2 item_Arms_end
+    103054: unused head cheek right 1 item_Arms
+    103056: unused head cheek right 1 item_Arms_end
+    103058: unused head cheek right 2 item_Arms
+    103060: unused head cheek right 2 item_Arms_end
+    103062: unused head eyeball left item_Arms
+    103064: unused head eyeball left item_Arms_end
+    103066: unused head eyeball left item_handgunleft
+    103068: unused head eyeball left item_handgunleft_end
+    103070: unused head eyeball left item_handgunright
+    103072: unused head eyeball left item_handgunright_end
+    103074: unused head eyeball left item_holsterleft
+    103076: unused head eyeball left item_holsterleft_end
+    103078: unused head eyeball left item_holsterright
+    103080: unused head eyeball left item_holsterright_end
+    103082: unused head eyeball right item_Arms
+    103084: unused head eyeball right item_Arms_end
+    103086: unused head eyeball right item_handgunleft
+    103088: unused head eyeball right item_handgunleft_end
+    103090: unused head eyeball right item_handgunright
+    103092: unused head eyeball right item_handgunright_end
+    103094: unused head eyeball right item_holsterleft
+    103096: unused head eyeball right item_holsterleft_end
+    103098: unused head eyeball right item_holsterright
+    103100: unused head eyeball right item_holsterright_end
+    103102: unused head eyebrow left 1 item_Arms
+    103104: unused head eyebrow left 1 item_Arms_end
+    103106: unused head eyebrow left 1 item_handgunleft
+    103108: unused head eyebrow left 1 item_handgunleft_end
+    103110: unused head eyebrow left 1 item_handgunright
+    103112: unused head eyebrow left 1 item_handgunright_end
+    103114: unused head eyebrow left 1 item_holsterleft
+    103116: unused head eyebrow left 1 item_holsterleft_end
+    103118: unused head eyebrow left 1 item_holsterright
+    103120: unused head eyebrow left 1 item_holsterright_end
+    103122: unused head eyebrow left 2 item_Arms
+    103124: unused head eyebrow left 2 item_Arms_end
+    103126: unused head eyebrow left 2 item_handgunleft
+    103128: unused head eyebrow left 2 item_handgunleft_end
+    103130: unused head eyebrow left 2 item_handgunright
+    103132: unused head eyebrow left 2 item_handgunright_end
+    103134: unused head eyebrow left 2 item_holsterleft
+    103136: unused head eyebrow left 2 item_holsterleft_end
+    103138: unused head eyebrow left 2 item_holsterright
+    103140: unused head eyebrow left 2 item_holsterright_end
+    103142: unused head eyebrow left 3 item_Arms
+    103144: unused head eyebrow left 3 item_Arms_end
+    103146: unused head eyebrow left 3 item_handgunleft
+    103148: unused head eyebrow left 3 item_handgunleft_end
+    103150: unused head eyebrow left 3 item_handgunright
+    103152: unused head eyebrow left 3 item_handgunright_end
+    103154: unused head eyebrow left 3 item_holsterleft
+    103156: unused head eyebrow left 3 item_holsterleft_end
+    103158: unused head eyebrow left 3 item_holsterright
+    103160: unused head eyebrow left 3 item_holsterright_end
+    103162: unused head eyebrow right 1 item_Arms
+    103164: unused head eyebrow right 1 item_Arms_end
+    103166: unused head eyebrow right 1 item_handgunleft
+    103168: unused head eyebrow right 1 item_handgunleft_end
+    103170: unused head eyebrow right 1 item_handgunright
+    103172: unused head eyebrow right 1 item_handgunright_end
+    103174: unused head eyebrow right 1 item_holsterleft
+    103176: unused head eyebrow right 1 item_holsterleft_end
+    103178: unused head eyebrow right 1 item_holsterright
+    103180: unused head eyebrow right 1 item_holsterright_end
+    103182: unused head eyebrow right 2 item_Arms
+    103184: unused head eyebrow right 2 item_Arms_end
+    103186: unused head eyebrow right 2 item_handgunleft
+    103188: unused head eyebrow right 2 item_handgunleft_end
+    103190: unused head eyebrow right 2 item_handgunright
+    103192: unused head eyebrow right 2 item_handgunright_end
+    103194: unused head eyebrow right 2 item_holsterleft
+    103196: unused head eyebrow right 2 item_holsterleft_end
+    103198: unused head eyebrow right 2 item_holsterright
+    103200: unused head eyebrow right 2 item_holsterright_end
+    103202: unused head eyebrow right 3 item_Arms
+    103204: unused head eyebrow right 3 item_Arms_end
+    103206: unused head eyebrow right 3 item_handgunleft
+    103208: unused head eyebrow right 3 item_handgunleft_end
+    103210: unused head eyebrow right 3 item_handgunright
+    103212: unused head eyebrow right 3 item_handgunright_end
+    103214: unused head eyebrow right 3 item_holsterleft
+    103216: unused head eyebrow right 3 item_holsterleft_end
+    103218: unused head eyebrow right 3 item_holsterright
+    103220: unused head eyebrow right 3 item_holsterright_end
+    103222: unused head eyelid left lower item_Arms
+    103224: unused head eyelid left lower item_Arms_end
+    103226: unused head eyelid left lower item_handgunleft
+    103228: unused head eyelid left lower item_handgunleft_end
+    103230: unused head eyelid left lower item_handgunright
+    103232: unused head eyelid left lower item_handgunright_end
+    103234: unused head eyelid left lower item_holsterleft
+    103236: unused head eyelid left lower item_holsterleft_end
+    103238: unused head eyelid left lower item_holsterright
+    103240: unused head eyelid left lower item_holsterright_end
+    103242: unused head eyelid left upper item_Arms
+    103244: unused head eyelid left upper item_Arms_end
+    103246: unused head eyelid left upper item_handgunleft
+    103248: unused head eyelid left upper item_handgunleft_end
+    103250: unused head eyelid left upper item_handgunright
+    103252: unused head eyelid left upper item_handgunright_end
+    103254: unused head eyelid left upper item_holsterleft
+    103256: unused head eyelid left upper item_holsterleft_end
+    103258: unused head eyelid left upper item_holsterright
+    103260: unused head eyelid left upper item_holsterright_end
+    103262: unused head eyelid right lower item_Arms
+    103264: unused head eyelid right lower item_Arms_end
+    103266: unused head eyelid right lower item_handgunleft
+    103268: unused head eyelid right lower item_handgunleft_end
+    103270: unused head eyelid right lower item_handgunright
+    103272: unused head eyelid right lower item_handgunright_end
+    103274: unused head eyelid right lower item_holsterleft
+    103276: unused head eyelid right lower item_holsterleft_end
+    103278: unused head eyelid right lower item_holsterright
+    103280: unused head eyelid right lower item_holsterright_end
+    103282: unused head eyelid right upper item_Arms
+    103284: unused head eyelid right upper item_Arms_end
+    103286: unused head eyelid right upper item_handgunleft
+    103288: unused head eyelid right upper item_handgunleft_end
+    103290: unused head eyelid right upper item_handgunright
+    103292: unused head eyelid right upper item_handgunright_end
+    103294: unused head eyelid right upper item_holsterleft
+    103296: unused head eyelid right upper item_holsterleft_end
+    103298: unused head eyelid right upper item_holsterright
+    103300: unused head eyelid right upper item_holsterright_end
+    103302: unused head jaw item_Arms
+    103304: unused head jaw item_handgunleft
+    103306: unused head jaw item_handgunright
+    103308: unused head jaw item_holsterleft
+    103310: unused head jaw item_holsterright
+    103312: unused head lip lower left item_Arms
+    103314: unused head lip lower left item_Arms_end
+    103316: unused head lip lower left item_handgunleft
+    103318: unused head lip lower left item_handgunleft_end
+    103320: unused head lip lower left item_handgunright
+    103322: unused head lip lower left item_handgunright_end
+    103324: unused head lip lower left item_holsterleft
+    103326: unused head lip lower left item_holsterleft_end
+    103328: unused head lip lower left item_holsterright
+    103330: unused head lip lower left item_holsterright_end
+    103332: unused head lip lower middle item_Arms
+    103334: unused head lip lower middle item_Arms_end
+    103336: unused head lip lower middle item_handgunleft
+    103338: unused head lip lower middle item_handgunleft_end
+    103340: unused head lip lower middle item_handgunright
+    103342: unused head lip lower middle item_handgunright_end
+    103344: unused head lip lower middle item_holsterleft
+    103346: unused head lip lower middle item_holsterleft_end
+    103348: unused head lip lower middle item_holsterright
+    103350: unused head lip lower middle item_holsterright_end
+    103352: unused head lip lower right item_Arms
+    103354: unused head lip lower right item_Arms_end
+    103356: unused head lip lower right item_handgunleft
+    103358: unused head lip lower right item_handgunleft_end
+    103360: unused head lip lower right item_handgunright
+    103362: unused head lip lower right item_handgunright_end
+    103364: unused head lip lower right item_holsterleft
+    103366: unused head lip lower right item_holsterleft_end
+    103368: unused head lip lower right item_holsterright
+    103370: unused head lip lower right item_holsterright_end
+    103372: unused head lip upper left item_Arms
+    103374: unused head lip upper left item_Arms_end
+    103376: unused head lip upper left item_handgunleft
+    103378: unused head lip upper left item_handgunleft_end
+    103380: unused head lip upper left item_handgunright
+    103382: unused head lip upper left item_handgunright_end
+    103384: unused head lip upper left item_holsterleft
+    103386: unused head lip upper left item_holsterleft_end
+    103388: unused head lip upper left item_holsterright
+    103390: unused head lip upper left item_holsterright_end
+    103392: unused head lip upper middle item_Arms
+    103394: unused head lip upper middle item_Arms_end
+    103396: unused head lip upper middle item_handgunleft
+    103398: unused head lip upper middle item_handgunleft_end
+    103400: unused head lip upper middle item_handgunright
+    103402: unused head lip upper middle item_handgunright_end
+    103404: unused head lip upper middle item_holsterleft
+    103406: unused head lip upper middle item_holsterleft_end
+    103408: unused head lip upper middle item_holsterright
+    103410: unused head lip upper middle item_holsterright_end
+    103412: unused head lip upper right item_Arms
+    103414: unused head lip upper right item_Arms_end
+    103416: unused head lip upper right item_handgunleft
+    103418: unused head lip upper right item_handgunleft_end
+    103420: unused head lip upper right item_handgunright
+    103422: unused head lip upper right item_handgunright_end
+    103424: unused head lip upper right item_holsterleft
+    103426: unused head lip upper right item_holsterleft_end
+    103428: unused head lip upper right item_holsterright
+    103430: unused head lip upper right item_holsterright_end
+    103432: unused head mouth corner left item_Arms
+    103434: unused head mouth corner left item_Arms_end
+    103436: unused head mouth corner left item_handgunleft
+    103438: unused head mouth corner left item_handgunleft_end
+    103440: unused head mouth corner left item_handgunright
+    103442: unused head mouth corner left item_handgunright_end
+    103444: unused head mouth corner left item_holsterleft
+    103446: unused head mouth corner left item_holsterleft_end
+    103448: unused head mouth corner left item_holsterright
+    103450: unused head mouth corner left item_holsterright_end
+    103452: unused head mouth corner right item_Arms
+    103454: unused head mouth corner right item_Arms_end
+    103456: unused head mouth corner right item_handgunleft
+    103458: unused head mouth corner right item_handgunleft_end
+    103460: unused head mouth corner right item_handgunright
+    103462: unused head mouth corner right item_handgunright_end
+    103464: unused head mouth corner right item_holsterleft
+    103466: unused head mouth corner right item_holsterleft_end
+    103468: unused head mouth corner right item_holsterright
+    103470: unused head mouth corner right item_holsterright_end
+    103472: unused head neck lower item_Arms
+    103474: unused head neck lower item_handgunleft
+    103476: unused head neck lower item_handgunright
+    103478: unused head neck lower item_holsterleft
+    103480: unused head neck lower item_holsterright
+    103482: unused head neck upper item_Arms
+    103484: unused head neck upper item_handgunleft
+    103486: unused head neck upper item_handgunright
+    103488: unused head neck upper item_holsterleft
+    103490: unused head neck upper item_holsterright
+    103492: unused head nostril left item_Arms
+    103494: unused head nostril left item_Arms_end
+    103496: unused head nostril right item_Arms
+    103498: unused head nostril right item_Arms_end
+    103500: unused head tongue 1 item_Arms
+    103502: unused head tongue 2 item_Arms
+    103504: unused head tongue 2 item_Arms_end
+    103506: unused leg left ankle item_Arms
+    103508: unused leg left ankle item_handgunleft
+    103510: unused leg left ankle item_handgunright
+    103512: unused leg left ankle item_holsterleft
+    103514: unused leg left ankle item_holsterright
+    103516: unused leg left knee item_Arms
+    103518: unused leg left knee item_handgunleft
+    103520: unused leg left knee item_handgunright
+    103522: unused leg left knee item_holsterleft
+    103524: unused leg left knee item_holsterright
+    103526: unused leg left thigh attached_holsterleft root ground
+    103528: unused leg left thigh attached_holsterleft root hips
+    103530: unused leg left thigh item_Arms
+    103532: unused leg left thigh item_handgunleft
+    103534: unused leg left thigh item_handgunright
+    103536: unused leg left thigh item_holsterright
+    103538: unused leg left toes item_Arms
+    103540: unused leg left toes item_handgunleft
+    103542: unused leg left toes item_handgunleft_end
+    103544: unused leg left toes item_handgunright
+    103546: unused leg left toes item_handgunright_end
+    103548: unused leg left toes item_holsterleft
+    103550: unused leg left toes item_holsterleft_end
+    103552: unused leg left toes item_holsterright
+    103554: unused leg left toes item_holsterright_end
+    103556: unused leg right ankle item_Arms
+    103558: unused leg right ankle item_handgunleft
+    103560: unused leg right ankle item_handgunright
+    103562: unused leg right ankle item_holsterleft
+    103564: unused leg right ankle item_holsterright
+    103566: unused leg right knee item_Arms
+    103568: unused leg right knee item_handgunleft
+    103570: unused leg right knee item_handgunright
+    103572: unused leg right knee item_holsterleft
+    103574: unused leg right knee item_holsterright
+    103576: unused leg right thigh attached_holsterright root ground
+    103578: unused leg right thigh attached_holsterright root hips
+    103580: unused leg right thigh item_Arms
+    103582: unused leg right thigh item_handgunleft
+    103584: unused leg right thigh item_handgunright
+    103586: unused leg right thigh item_holsterleft
+    103588: unused leg right toes item_Arms
+    103590: unused leg right toes item_handgunleft
+    103592: unused leg right toes item_handgunleft_end
+    103594: unused leg right toes item_handgunright
+    103596: unused leg right toes item_handgunright_end
+    103598: unused leg right toes item_holsterleft
+    103600: unused leg right toes item_holsterleft_end
+    103602: unused leg right toes item_holsterright
+    103604: unused leg right toes item_holsterright_end
+    103606: unused pelvis item_Arms
+    103608: unused pelvis item_handgunleft
+    103610: unused pelvis item_handgunright
+    103612: unused pelvis item_holsterleft
+    103614: unused pelvis item_holsterright
+    103616: unused spine lower item_Arms
+    103618: unused spine lower item_handgunleft
+    103620: unused spine lower item_handgunright
+    103622: unused spine lower item_holsterleft
+    103624: unused spine lower item_holsterright
+    103626: unused spine upper attached_arms root ground
+    103628: unused spine upper item_Arms
+    103630: unused spine upper item_handgunleft
+    103632: unused spine upper item_handgunright
+    103634: unused spine upper item_holsterleft
+    103636: unused spine upper item_holsterright
+    103638: unused003 item_Arms
+    103640: unused009 item_Arms
+    103642: unused009 item_Arms_end
+    103644: unused014 item_Arms
+    103646: unused014 item_Arms_end
+    103648: unused019 item_Arms
+    103650: unused019 item_Arms_end
+    103652: unused033 item_Arms
+    103654: unused033 item_Arms_end
+    103656: unused072 item_Arms
+    103658: unused072 item_Arms_end
+    103660: unused073 item_Arms
+    103662: unused073 item_Arms_end
+    103664: unused074 item_Arms
+    103666: unused075 item_Arms
+    103668: unused076 item_Arms
+    103670: unused076 item_Arms_end
+    103672: unused077 item_Arms
+    103674: unused077 item_Arms_end
+    103676: unused097 item_Arms
+    103678: unused097 item_Arms_end
+    103680: unused098 item_Arms
+    103682: unused098 item_Arms_end
+    103684: unused099 item_Arms
+    103686: unused100 item_Arms
+    103688: unused101 item_Arms
+    103690: unused101 item_Arms_end
+    103692: unused102 item_Arms
+    103694: unused102 item_Arms_end
+    103696: unused104 item_Arms
+    103698: unused104 item_Arms_end
+    103700: unused106 item_Arms
+    103702: unused106 item_Arms_end
+    103704: unused107 item_Arms
+    103706: unused107 item_Arms_end
+    103708: unused108 item_Arms
+    103710: unused108 item_Arms_end
+    103712: unused109 item_Arms
+    103714: unused109 item_Arms_end
+    103716: unused110 item_Arms
+    103718: unused110 item_Arms_end
+    103720: unused111 item_Arms
+    103722: unused111 item_Arms_end
+    103724: unused112 item_Arms
+    103726: unused112 item_Arms_end
+    103728: unused113 item_Arms
+    103730: unused113 item_Arms_end
+    103732: unused124 item_Arms
+    103734: unused124 item_Arms_end
+    103736: unused125 item_Arms
+    103738: unused125 item_Arms_end
+    103740: unused126 item_Arms
+    103742: unused126 item_Arms_end
+    103744: unused127 item_Arms
+    103746: unused127 item_Arms_end
+    103748: unused128 item_Arms
+    103750: unused128 item_Arms_end
+    103752: unused129 item_Arms
+    103754: unused129 item_Arms_end
+    103756: unused130 item_Arms
+    103758: unused130 item_Arms_end
+    103760: unused131 item_Arms
+    103762: unused131 item_Arms_end
+    103764: unused132 item_Arms
+    103766: unused132 item_Arms_end
+    103768: unused133 item_Arms
+    103770: unused133 item_Arms_end
+    103772: unused134 item_Arms
+    103774: unused134 item_Arms_end
+    103776: unused135 item_Arms
+    103778: unused135 item_Arms_end
+    103780: unused136 item_Arms
+    103782: unused136 item_Arms_end
+    103784: unused137 item_Arms
+    103786: unused137 item_Arms_end
+    103788: unused138 item_Arms
+    103790: unused138 item_Arms_end
+    103792: unused139 item_Arms
+    103794: unused139 item_Arms_end
+    103796: unused140 item_Arms
+    103798: unused140 item_Arms_end
+    103800: unused141 item_Arms
+    103802: unused141 item_Arms_end
+    103804: unused142 item_Arms
+    103806: unused142 item_Arms_end
+    103808: unused143 item_Arms
+    103810: unused143 item_Arms_end
+    103812: unused144 item_Arms
+    103814: unused144 item_Arms_end
+    103816: unused145 item_Arms
+    103818: unused145 item_Arms_end
+    103820: unused146 item_Arms
+    103822: unused146 item_Arms_end
+    103824: unused147 item_Arms
+    103826: unused147 item_Arms_end
+    103828: unused148 item_Arms
+    103830: unused148 item_Arms_end
+    103832: unused149 item_Arms
+    103834: unused149 item_Arms_end
+    103836: unused150 item_Arms
+    103838: unused150 item_Arms_end
+    103840: unused151 item_Arms
+    103842: unused151 item_Arms_end
+    103844: unused152 item_Arms
+    103846: unused152 item_Arms_end
+    103848: unused153 item_Arms
+    103850: unused153 item_Arms_end
     400000: 20_black_0_5_50_5
     400002: 20_boots_0_1_25_0
     400004: 20_glove2_0_5_100_0
@@ -1639,6 +2747,1114 @@ ModelImporter:
     401630: unused_spine_upper_item_handgunright
     401632: unused_spine_upper_item_holsterleft
     401634: unused_spine_upper_item_holsterright
+    401636: 20_black_0.5_50_5
+    401638: 20_boots_0.1_25_0
+    401640: 20_glove2_0.5_100_0
+    401642: 20_glove_0.5_1.1_0
+    401644: 20_lace_0.2_0.3_0
+    401646: 20_shorts_0.1_6_0
+    401648: 20_socks_0.1_5_0
+    401650: 27_eyes_0.2_0_0
+    401652: 27_metal_0.2_0_0
+    401654: 27_mouth_0.1_0_0
+    401656: 27_shirt_0.1_0_0
+    401658: 6_arms_0.05_0_0
+    401660: 6_brown_0.2_0_0
+    401662: 6_handup_0.05_0_0
+    401664: 6_nail_0.5_0_0
+    401666: 6_skin_0.05_0_0
+    401668: 8_armsSnap2_0.1_0_0
+    401670: 8_armsSnap_0.1_0_0
+    401672: 8_armsthumb_0.1_0_0
+    401674: 8_face_0.05_0_0
+    401676: 8_legs_0.05_0_0
+    401678: arm left elbow
+    401680: arm left finger 1a
+    401682: arm left finger 1b
+    401684: arm left finger 1c
+    401686: arm left finger 1c_end
+    401688: arm left finger 2a
+    401690: arm left finger 2b
+    401692: arm left finger 2c
+    401694: arm left finger 2c_end
+    401696: arm left finger 3a
+    401698: arm left finger 3b
+    401700: arm left finger 3c
+    401702: arm left finger 3c_end
+    401704: arm left finger 4a
+    401706: arm left finger 4b
+    401708: arm left finger 4c
+    401710: arm left finger 4c_end
+    401712: arm left finger 5a
+    401714: arm left finger 5b
+    401716: arm left finger 5c
+    401718: arm left finger 5c_end
+    401720: arm left shoulder 1
+    401722: arm left shoulder 2
+    401724: arm left wrist
+    401726: arm right elbow
+    401728: arm right finger 1a
+    401730: arm right finger 1b
+    401732: arm right finger 1c
+    401734: arm right finger 1c_end
+    401736: arm right finger 2a
+    401738: arm right finger 2b
+    401740: arm right finger 2c
+    401742: arm right finger 2c_end
+    401744: arm right finger 3a
+    401746: arm right finger 3b
+    401748: arm right finger 3c
+    401750: arm right finger 3c_end
+    401752: arm right finger 4a
+    401754: arm right finger 4b
+    401756: arm right finger 4c
+    401758: arm right finger 4c_end
+    401760: arm right finger 5a
+    401762: arm right finger 5b
+    401764: arm right finger 5c
+    401766: arm right finger 5c_end
+    401768: arm right shoulder 1
+    401770: arm right shoulder 2
+    401772: arm right wrist
+    401774: breast left
+    401776: breast left_end
+    401778: breast right
+    401780: breast right_end
+    401782: hair 1 left front 1
+    401784: hair 1 left front 2
+    401786: hair 1 left front 3
+    401788: hair 1 left front 4
+    401790: hair 1 left front 5
+    401792: hair 1 left front 5_end
+    401794: hair 1 right front 1
+    401796: hair 1 right front 2
+    401798: hair 1 right front 3
+    401800: hair 1 right front 4
+    401802: hair 1 right front 5
+    401804: hair 1 right front 5_end
+    401806: hair 2 left front 1
+    401808: hair 2 left front 2
+    401810: hair 2 left front 3
+    401812: hair 2 left front 4
+    401814: hair 2 left front 5
+    401816: hair 2 left front 5_end
+    401818: hair 2 right front 1
+    401820: hair 2 right front 2
+    401822: hair 2 right front 3
+    401824: hair 2 right front 4
+    401826: hair 2 right front 5
+    401828: hair 2 right front 5_end
+    401830: hair 3 left front 1
+    401832: hair 3 left front 2
+    401834: hair 3 left front 3
+    401836: hair 3 left front 4
+    401838: hair 3 left front 4_end
+    401840: hair 3 right front 1
+    401842: hair 3 right front 2
+    401844: hair 3 right front 3
+    401846: hair 3 right front 4
+    401848: hair 3 right front 4_end
+    401850: hair 4 left front 1
+    401852: hair 4 left front 2
+    401854: hair 4 left front 3
+    401856: hair 4 left front 4
+    401858: hair 4 left front 5
+    401860: hair 4 left front 5_end
+    401862: hair 4 right front 1
+    401864: hair 4 right front 2
+    401866: hair 4 right front 3
+    401868: hair 4 right front 4
+    401870: hair 4 right front 5
+    401872: hair 4 right front 5_end
+    401874: hair front left
+    401876: hair front right
+    401878: hair ponytail 0
+    401880: hair ponytail 1
+    401882: hair ponytail 10
+    401884: hair ponytail 11
+    401886: hair ponytail 11_end
+    401888: hair ponytail 2
+    401890: hair ponytail 3
+    401892: hair ponytail 4
+    401894: hair ponytail 5
+    401896: hair ponytail 7
+    401898: hair ponytail 8
+    401900: hair ponytail 9
+    401902: handgun left
+    401904: handgun right
+    401906: head eyeball left
+    401908: head eyeball left_end
+    401910: head eyeball right
+    401912: head eyeball right_end
+    401914: head eyebrow left 1
+    401916: head eyebrow left 1_end
+    401918: head eyebrow left 2
+    401920: head eyebrow left 2_end
+    401922: head eyebrow left 3
+    401924: head eyebrow left 3_end
+    401926: head eyebrow right 1
+    401928: head eyebrow right 1_end
+    401930: head eyebrow right 2
+    401932: head eyebrow right 2_end
+    401934: head eyebrow right 3
+    401936: head eyebrow right 3_end
+    401938: head eyelid left lower
+    401940: head eyelid left lower_end
+    401942: head eyelid left upper
+    401944: head eyelid left upper_end
+    401946: head eyelid right lower
+    401948: head eyelid right lower_end
+    401950: head eyelid right upper
+    401952: head eyelid right upper_end
+    401954: head jaw
+    401956: head lip lower left
+    401958: head lip lower left_end
+    401960: head lip lower middle
+    401962: head lip lower middle_end
+    401964: head lip lower right
+    401966: head lip lower right_end
+    401968: head lip upper left
+    401970: head lip upper left_end
+    401972: head lip upper middle
+    401974: head lip upper middle_end
+    401976: head lip upper right
+    401978: head lip upper right_end
+    401980: head mouth corner left
+    401982: head mouth corner left_end
+    401984: head mouth corner right
+    401986: head mouth corner right_end
+    401988: head neck lower
+    401990: head neck upper
+    401992: holster left
+    401994: holster right
+    401996: leg left ankle
+    401998: leg left knee
+    402000: leg left thigh
+    402002: leg left toes
+    402004: leg left toes_end
+    402006: leg right ankle
+    402008: leg right knee
+    402010: leg right thigh
+    402012: leg right toes
+    402014: leg right toes_end
+    402016: root ground
+    402018: root hips
+    402020: spine lower
+    402022: spine upper
+    402024: unused arm left elbow
+    402026: unused arm left elbow item_handgunleft
+    402028: unused arm left elbow item_handgunright
+    402030: unused arm left elbow item_holsterleft
+    402032: unused arm left elbow item_holsterright
+    402034: unused arm left finger 1a
+    402036: unused arm left finger 1a item_handgunleft
+    402038: unused arm left finger 1a item_handgunright
+    402040: unused arm left finger 1a item_holsterleft
+    402042: unused arm left finger 1a item_holsterright
+    402044: unused arm left finger 1b
+    402046: unused arm left finger 1b item_handgunleft
+    402048: unused arm left finger 1b item_handgunright
+    402050: unused arm left finger 1b item_holsterleft
+    402052: unused arm left finger 1b item_holsterright
+    402054: unused arm left finger 1c
+    402056: unused arm left finger 1c item_handgunleft
+    402058: unused arm left finger 1c item_handgunleft_end
+    402060: unused arm left finger 1c item_handgunright
+    402062: unused arm left finger 1c item_handgunright_end
+    402064: unused arm left finger 1c item_holsterleft
+    402066: unused arm left finger 1c item_holsterleft_end
+    402068: unused arm left finger 1c item_holsterright
+    402070: unused arm left finger 1c item_holsterright_end
+    402072: unused arm left finger 1c_end
+    402074: unused arm left finger 2a
+    402076: unused arm left finger 2a item_handgunleft
+    402078: unused arm left finger 2a item_handgunright
+    402080: unused arm left finger 2a item_holsterleft
+    402082: unused arm left finger 2a item_holsterright
+    402084: unused arm left finger 2b
+    402086: unused arm left finger 2b item_handgunleft
+    402088: unused arm left finger 2b item_handgunright
+    402090: unused arm left finger 2b item_holsterleft
+    402092: unused arm left finger 2b item_holsterright
+    402094: unused arm left finger 2c
+    402096: unused arm left finger 2c item_handgunleft
+    402098: unused arm left finger 2c item_handgunleft_end
+    402100: unused arm left finger 2c item_handgunright
+    402102: unused arm left finger 2c item_handgunright_end
+    402104: unused arm left finger 2c item_holsterleft
+    402106: unused arm left finger 2c item_holsterleft_end
+    402108: unused arm left finger 2c item_holsterright
+    402110: unused arm left finger 2c item_holsterright_end
+    402112: unused arm left finger 2c_end
+    402114: unused arm left finger 3a
+    402116: unused arm left finger 3a item_handgunleft
+    402118: unused arm left finger 3a item_handgunright
+    402120: unused arm left finger 3a item_holsterleft
+    402122: unused arm left finger 3a item_holsterright
+    402124: unused arm left finger 3b
+    402126: unused arm left finger 3b item_handgunleft
+    402128: unused arm left finger 3b item_handgunright
+    402130: unused arm left finger 3b item_holsterleft
+    402132: unused arm left finger 3b item_holsterright
+    402134: unused arm left finger 3c
+    402136: unused arm left finger 3c item_handgunleft
+    402138: unused arm left finger 3c item_handgunleft_end
+    402140: unused arm left finger 3c item_handgunright
+    402142: unused arm left finger 3c item_handgunright_end
+    402144: unused arm left finger 3c item_holsterleft
+    402146: unused arm left finger 3c item_holsterleft_end
+    402148: unused arm left finger 3c item_holsterright
+    402150: unused arm left finger 3c item_holsterright_end
+    402152: unused arm left finger 3c_end
+    402154: unused arm left finger 4a
+    402156: unused arm left finger 4a item_handgunleft
+    402158: unused arm left finger 4a item_handgunright
+    402160: unused arm left finger 4a item_holsterleft
+    402162: unused arm left finger 4a item_holsterright
+    402164: unused arm left finger 4b
+    402166: unused arm left finger 4b item_handgunleft
+    402168: unused arm left finger 4b item_handgunright
+    402170: unused arm left finger 4b item_holsterleft
+    402172: unused arm left finger 4b item_holsterright
+    402174: unused arm left finger 4c
+    402176: unused arm left finger 4c item_handgunleft
+    402178: unused arm left finger 4c item_handgunleft_end
+    402180: unused arm left finger 4c item_handgunright
+    402182: unused arm left finger 4c item_handgunright_end
+    402184: unused arm left finger 4c item_holsterleft
+    402186: unused arm left finger 4c item_holsterleft_end
+    402188: unused arm left finger 4c item_holsterright
+    402190: unused arm left finger 4c item_holsterright_end
+    402192: unused arm left finger 4c_end
+    402194: unused arm left finger 5a
+    402196: unused arm left finger 5a item_handgunleft
+    402198: unused arm left finger 5a item_handgunright
+    402200: unused arm left finger 5a item_holsterleft
+    402202: unused arm left finger 5a item_holsterright
+    402204: unused arm left finger 5b
+    402206: unused arm left finger 5b item_handgunleft
+    402208: unused arm left finger 5b item_handgunright
+    402210: unused arm left finger 5b item_holsterleft
+    402212: unused arm left finger 5b item_holsterright
+    402214: unused arm left finger 5c
+    402216: unused arm left finger 5c item_handgunleft
+    402218: unused arm left finger 5c item_handgunleft_end
+    402220: unused arm left finger 5c item_handgunright
+    402222: unused arm left finger 5c item_handgunright_end
+    402224: unused arm left finger 5c item_holsterleft
+    402226: unused arm left finger 5c item_holsterleft_end
+    402228: unused arm left finger 5c item_holsterright
+    402230: unused arm left finger 5c item_holsterright_end
+    402232: unused arm left finger 5c_end
+    402234: unused arm left shoulder 1
+    402236: unused arm left shoulder 1 item_handgunleft
+    402238: unused arm left shoulder 1 item_handgunright
+    402240: unused arm left shoulder 1 item_holsterleft
+    402242: unused arm left shoulder 1 item_holsterright
+    402244: unused arm left shoulder 2
+    402246: unused arm left shoulder 2 item_handgunleft
+    402248: unused arm left shoulder 2 item_handgunright
+    402250: unused arm left shoulder 2 item_holsterleft
+    402252: unused arm left shoulder 2 item_holsterright
+    402254: unused arm left wrist
+    402256: unused arm left wrist attached_handgunleft root ground
+    402258: unused arm left wrist attached_handgunleft root hips
+    402260: unused arm left wrist item_handgunright
+    402262: unused arm left wrist item_holsterleft
+    402264: unused arm left wrist item_holsterright
+    402266: unused arm right elbow
+    402268: unused arm right elbow item_handgunleft
+    402270: unused arm right elbow item_handgunright
+    402272: unused arm right elbow item_holsterleft
+    402274: unused arm right elbow item_holsterright
+    402276: unused arm right finger 1a
+    402278: unused arm right finger 1a item_handgunleft
+    402280: unused arm right finger 1a item_handgunright
+    402282: unused arm right finger 1a item_holsterleft
+    402284: unused arm right finger 1a item_holsterright
+    402286: unused arm right finger 1b
+    402288: unused arm right finger 1b item_handgunleft
+    402290: unused arm right finger 1b item_handgunright
+    402292: unused arm right finger 1b item_holsterleft
+    402294: unused arm right finger 1b item_holsterright
+    402296: unused arm right finger 1c
+    402298: unused arm right finger 1c item_handgunleft
+    402300: unused arm right finger 1c item_handgunleft_end
+    402302: unused arm right finger 1c item_handgunright
+    402304: unused arm right finger 1c item_handgunright_end
+    402306: unused arm right finger 1c item_holsterleft
+    402308: unused arm right finger 1c item_holsterleft_end
+    402310: unused arm right finger 1c item_holsterright
+    402312: unused arm right finger 1c item_holsterright_end
+    402314: unused arm right finger 1c_end
+    402316: unused arm right finger 2a
+    402318: unused arm right finger 2a item_handgunleft
+    402320: unused arm right finger 2a item_handgunright
+    402322: unused arm right finger 2a item_holsterleft
+    402324: unused arm right finger 2a item_holsterright
+    402326: unused arm right finger 2b
+    402328: unused arm right finger 2b item_handgunleft
+    402330: unused arm right finger 2b item_handgunright
+    402332: unused arm right finger 2b item_holsterleft
+    402334: unused arm right finger 2b item_holsterright
+    402336: unused arm right finger 2c
+    402338: unused arm right finger 2c item_handgunleft
+    402340: unused arm right finger 2c item_handgunleft_end
+    402342: unused arm right finger 2c item_handgunright
+    402344: unused arm right finger 2c item_handgunright_end
+    402346: unused arm right finger 2c item_holsterleft
+    402348: unused arm right finger 2c item_holsterleft_end
+    402350: unused arm right finger 2c item_holsterright
+    402352: unused arm right finger 2c item_holsterright_end
+    402354: unused arm right finger 2c_end
+    402356: unused arm right finger 3a
+    402358: unused arm right finger 3a item_handgunleft
+    402360: unused arm right finger 3a item_handgunright
+    402362: unused arm right finger 3a item_holsterleft
+    402364: unused arm right finger 3a item_holsterright
+    402366: unused arm right finger 3b
+    402368: unused arm right finger 3b item_handgunleft
+    402370: unused arm right finger 3b item_handgunright
+    402372: unused arm right finger 3b item_holsterleft
+    402374: unused arm right finger 3b item_holsterright
+    402376: unused arm right finger 3c
+    402378: unused arm right finger 3c item_handgunleft
+    402380: unused arm right finger 3c item_handgunleft_end
+    402382: unused arm right finger 3c item_handgunright
+    402384: unused arm right finger 3c item_handgunright_end
+    402386: unused arm right finger 3c item_holsterleft
+    402388: unused arm right finger 3c item_holsterleft_end
+    402390: unused arm right finger 3c item_holsterright
+    402392: unused arm right finger 3c item_holsterright_end
+    402394: unused arm right finger 3c_end
+    402396: unused arm right finger 4a
+    402398: unused arm right finger 4a item_handgunleft
+    402400: unused arm right finger 4a item_handgunright
+    402402: unused arm right finger 4a item_holsterleft
+    402404: unused arm right finger 4a item_holsterright
+    402406: unused arm right finger 4b
+    402408: unused arm right finger 4b item_handgunleft
+    402410: unused arm right finger 4b item_handgunright
+    402412: unused arm right finger 4b item_holsterleft
+    402414: unused arm right finger 4b item_holsterright
+    402416: unused arm right finger 4c
+    402418: unused arm right finger 4c item_handgunleft
+    402420: unused arm right finger 4c item_handgunleft_end
+    402422: unused arm right finger 4c item_handgunright
+    402424: unused arm right finger 4c item_handgunright_end
+    402426: unused arm right finger 4c item_holsterleft
+    402428: unused arm right finger 4c item_holsterleft_end
+    402430: unused arm right finger 4c item_holsterright
+    402432: unused arm right finger 4c item_holsterright_end
+    402434: unused arm right finger 4c_end
+    402436: unused arm right finger 5a
+    402438: unused arm right finger 5a item_handgunleft
+    402440: unused arm right finger 5a item_handgunright
+    402442: unused arm right finger 5a item_holsterleft
+    402444: unused arm right finger 5a item_holsterright
+    402446: unused arm right finger 5b
+    402448: unused arm right finger 5b item_handgunleft
+    402450: unused arm right finger 5b item_handgunright
+    402452: unused arm right finger 5b item_holsterleft
+    402454: unused arm right finger 5b item_holsterright
+    402456: unused arm right finger 5c
+    402458: unused arm right finger 5c item_handgunleft
+    402460: unused arm right finger 5c item_handgunleft_end
+    402462: unused arm right finger 5c item_handgunright
+    402464: unused arm right finger 5c item_handgunright_end
+    402466: unused arm right finger 5c item_holsterleft
+    402468: unused arm right finger 5c item_holsterleft_end
+    402470: unused arm right finger 5c item_holsterright
+    402472: unused arm right finger 5c item_holsterright_end
+    402474: unused arm right finger 5c_end
+    402476: unused arm right shoulder 1
+    402478: unused arm right shoulder 1 item_handgunleft
+    402480: unused arm right shoulder 1 item_handgunright
+    402482: unused arm right shoulder 1 item_holsterleft
+    402484: unused arm right shoulder 1 item_holsterright
+    402486: unused arm right shoulder 2
+    402488: unused arm right shoulder 2 item_handgunleft
+    402490: unused arm right shoulder 2 item_handgunright
+    402492: unused arm right shoulder 2 item_holsterleft
+    402494: unused arm right shoulder 2 item_holsterright
+    402496: unused arm right wrist
+    402498: unused arm right wrist attached_handgunright root ground
+    402500: unused arm right wrist attached_handgunright root hips
+    402502: unused arm right wrist item_handgunleft
+    402504: unused arm right wrist item_holsterleft
+    402506: unused arm right wrist item_holsterright
+    402508: unused breast left item_Arms
+    402510: unused breast left item_handgunleft
+    402512: unused breast left item_handgunleft_end
+    402514: unused breast left item_handgunright
+    402516: unused breast left item_handgunright_end
+    402518: unused breast left item_holsterleft
+    402520: unused breast left item_holsterleft_end
+    402522: unused breast left item_holsterright
+    402524: unused breast left item_holsterright_end
+    402526: unused breast right item_Arms
+    402528: unused breast right item_handgunleft
+    402530: unused breast right item_handgunleft_end
+    402532: unused breast right item_handgunright
+    402534: unused breast right item_handgunright_end
+    402536: unused breast right item_holsterleft
+    402538: unused breast right item_holsterleft_end
+    402540: unused breast right item_holsterright
+    402542: unused breast right item_holsterright_end
+    402544: unused hair 1 left front 1 item_handgunleft
+    402546: unused hair 1 left front 1 item_handgunright
+    402548: unused hair 1 left front 1 item_holsterleft
+    402550: unused hair 1 left front 1 item_holsterright
+    402552: unused hair 1 left front 2 item_handgunleft
+    402554: unused hair 1 left front 2 item_handgunright
+    402556: unused hair 1 left front 2 item_holsterleft
+    402558: unused hair 1 left front 2 item_holsterright
+    402560: unused hair 1 left front 3 item_handgunleft
+    402562: unused hair 1 left front 3 item_handgunright
+    402564: unused hair 1 left front 3 item_holsterleft
+    402566: unused hair 1 left front 3 item_holsterright
+    402568: unused hair 1 left front 4 item_handgunleft
+    402570: unused hair 1 left front 4 item_handgunright
+    402572: unused hair 1 left front 4 item_holsterleft
+    402574: unused hair 1 left front 4 item_holsterright
+    402576: unused hair 1 left front 5 item_handgunleft
+    402578: unused hair 1 left front 5 item_handgunleft_end
+    402580: unused hair 1 left front 5 item_handgunright
+    402582: unused hair 1 left front 5 item_handgunright_end
+    402584: unused hair 1 left front 5 item_holsterleft
+    402586: unused hair 1 left front 5 item_holsterleft_end
+    402588: unused hair 1 left front 5 item_holsterright
+    402590: unused hair 1 left front 5 item_holsterright_end
+    402592: unused hair 1 right front 1 item_handgunleft
+    402594: unused hair 1 right front 1 item_handgunright
+    402596: unused hair 1 right front 1 item_holsterleft
+    402598: unused hair 1 right front 1 item_holsterright
+    402600: unused hair 1 right front 2 item_handgunleft
+    402602: unused hair 1 right front 2 item_handgunright
+    402604: unused hair 1 right front 2 item_holsterleft
+    402606: unused hair 1 right front 2 item_holsterright
+    402608: unused hair 1 right front 3 item_handgunleft
+    402610: unused hair 1 right front 3 item_handgunright
+    402612: unused hair 1 right front 3 item_holsterleft
+    402614: unused hair 1 right front 3 item_holsterright
+    402616: unused hair 1 right front 4 item_handgunleft
+    402618: unused hair 1 right front 4 item_handgunright
+    402620: unused hair 1 right front 4 item_holsterleft
+    402622: unused hair 1 right front 4 item_holsterright
+    402624: unused hair 1 right front 5 item_handgunleft
+    402626: unused hair 1 right front 5 item_handgunleft_end
+    402628: unused hair 1 right front 5 item_handgunright
+    402630: unused hair 1 right front 5 item_handgunright_end
+    402632: unused hair 1 right front 5 item_holsterleft
+    402634: unused hair 1 right front 5 item_holsterleft_end
+    402636: unused hair 1 right front 5 item_holsterright
+    402638: unused hair 1 right front 5 item_holsterright_end
+    402640: unused hair 2 left front 1 item_handgunleft
+    402642: unused hair 2 left front 1 item_handgunright
+    402644: unused hair 2 left front 1 item_holsterleft
+    402646: unused hair 2 left front 1 item_holsterright
+    402648: unused hair 2 left front 2 item_handgunleft
+    402650: unused hair 2 left front 2 item_handgunright
+    402652: unused hair 2 left front 2 item_holsterleft
+    402654: unused hair 2 left front 2 item_holsterright
+    402656: unused hair 2 left front 3 item_handgunleft
+    402658: unused hair 2 left front 3 item_handgunright
+    402660: unused hair 2 left front 3 item_holsterleft
+    402662: unused hair 2 left front 3 item_holsterright
+    402664: unused hair 2 left front 4 item_handgunleft
+    402666: unused hair 2 left front 4 item_handgunright
+    402668: unused hair 2 left front 4 item_holsterleft
+    402670: unused hair 2 left front 4 item_holsterright
+    402672: unused hair 2 left front 5 item_handgunleft
+    402674: unused hair 2 left front 5 item_handgunleft_end
+    402676: unused hair 2 left front 5 item_handgunright
+    402678: unused hair 2 left front 5 item_handgunright_end
+    402680: unused hair 2 left front 5 item_holsterleft
+    402682: unused hair 2 left front 5 item_holsterleft_end
+    402684: unused hair 2 left front 5 item_holsterright
+    402686: unused hair 2 left front 5 item_holsterright_end
+    402688: unused hair 2 right front 1 item_handgunleft
+    402690: unused hair 2 right front 1 item_handgunright
+    402692: unused hair 2 right front 1 item_holsterleft
+    402694: unused hair 2 right front 1 item_holsterright
+    402696: unused hair 2 right front 2 item_handgunleft
+    402698: unused hair 2 right front 2 item_handgunright
+    402700: unused hair 2 right front 2 item_holsterleft
+    402702: unused hair 2 right front 2 item_holsterright
+    402704: unused hair 2 right front 3 item_handgunleft
+    402706: unused hair 2 right front 3 item_handgunright
+    402708: unused hair 2 right front 3 item_holsterleft
+    402710: unused hair 2 right front 3 item_holsterright
+    402712: unused hair 2 right front 4 item_handgunleft
+    402714: unused hair 2 right front 4 item_handgunright
+    402716: unused hair 2 right front 4 item_holsterleft
+    402718: unused hair 2 right front 4 item_holsterright
+    402720: unused hair 2 right front 5 item_handgunleft
+    402722: unused hair 2 right front 5 item_handgunleft_end
+    402724: unused hair 2 right front 5 item_handgunright
+    402726: unused hair 2 right front 5 item_handgunright_end
+    402728: unused hair 2 right front 5 item_holsterleft
+    402730: unused hair 2 right front 5 item_holsterleft_end
+    402732: unused hair 2 right front 5 item_holsterright
+    402734: unused hair 2 right front 5 item_holsterright_end
+    402736: unused hair 3 left front 1 item_handgunleft
+    402738: unused hair 3 left front 1 item_handgunright
+    402740: unused hair 3 left front 1 item_holsterleft
+    402742: unused hair 3 left front 1 item_holsterright
+    402744: unused hair 3 left front 2 item_handgunleft
+    402746: unused hair 3 left front 2 item_handgunright
+    402748: unused hair 3 left front 2 item_holsterleft
+    402750: unused hair 3 left front 2 item_holsterright
+    402752: unused hair 3 left front 3 item_handgunleft
+    402754: unused hair 3 left front 3 item_handgunright
+    402756: unused hair 3 left front 3 item_holsterleft
+    402758: unused hair 3 left front 3 item_holsterright
+    402760: unused hair 3 left front 4 item_handgunleft
+    402762: unused hair 3 left front 4 item_handgunleft_end
+    402764: unused hair 3 left front 4 item_handgunright
+    402766: unused hair 3 left front 4 item_handgunright_end
+    402768: unused hair 3 left front 4 item_holsterleft
+    402770: unused hair 3 left front 4 item_holsterleft_end
+    402772: unused hair 3 left front 4 item_holsterright
+    402774: unused hair 3 left front 4 item_holsterright_end
+    402776: unused hair 3 right front 1 item_handgunleft
+    402778: unused hair 3 right front 1 item_handgunright
+    402780: unused hair 3 right front 1 item_holsterleft
+    402782: unused hair 3 right front 1 item_holsterright
+    402784: unused hair 3 right front 2 item_handgunleft
+    402786: unused hair 3 right front 2 item_handgunright
+    402788: unused hair 3 right front 2 item_holsterleft
+    402790: unused hair 3 right front 2 item_holsterright
+    402792: unused hair 3 right front 3 item_handgunleft
+    402794: unused hair 3 right front 3 item_handgunright
+    402796: unused hair 3 right front 3 item_holsterleft
+    402798: unused hair 3 right front 3 item_holsterright
+    402800: unused hair 3 right front 4 item_handgunleft
+    402802: unused hair 3 right front 4 item_handgunleft_end
+    402804: unused hair 3 right front 4 item_handgunright
+    402806: unused hair 3 right front 4 item_handgunright_end
+    402808: unused hair 3 right front 4 item_holsterleft
+    402810: unused hair 3 right front 4 item_holsterleft_end
+    402812: unused hair 3 right front 4 item_holsterright
+    402814: unused hair 3 right front 4 item_holsterright_end
+    402816: unused hair 4 left front 1 item_handgunleft
+    402818: unused hair 4 left front 1 item_handgunright
+    402820: unused hair 4 left front 1 item_holsterleft
+    402822: unused hair 4 left front 1 item_holsterright
+    402824: unused hair 4 left front 2 item_handgunleft
+    402826: unused hair 4 left front 2 item_handgunright
+    402828: unused hair 4 left front 2 item_holsterleft
+    402830: unused hair 4 left front 2 item_holsterright
+    402832: unused hair 4 left front 3 item_handgunleft
+    402834: unused hair 4 left front 3 item_handgunright
+    402836: unused hair 4 left front 3 item_holsterleft
+    402838: unused hair 4 left front 3 item_holsterright
+    402840: unused hair 4 left front 4 item_handgunleft
+    402842: unused hair 4 left front 4 item_handgunright
+    402844: unused hair 4 left front 4 item_holsterleft
+    402846: unused hair 4 left front 4 item_holsterright
+    402848: unused hair 4 left front 5 item_handgunleft
+    402850: unused hair 4 left front 5 item_handgunleft_end
+    402852: unused hair 4 left front 5 item_handgunright
+    402854: unused hair 4 left front 5 item_handgunright_end
+    402856: unused hair 4 left front 5 item_holsterleft
+    402858: unused hair 4 left front 5 item_holsterleft_end
+    402860: unused hair 4 left front 5 item_holsterright
+    402862: unused hair 4 left front 5 item_holsterright_end
+    402864: unused hair 4 right front 1 item_handgunleft
+    402866: unused hair 4 right front 1 item_handgunright
+    402868: unused hair 4 right front 1 item_holsterleft
+    402870: unused hair 4 right front 1 item_holsterright
+    402872: unused hair 4 right front 2 item_handgunleft
+    402874: unused hair 4 right front 2 item_handgunright
+    402876: unused hair 4 right front 2 item_holsterleft
+    402878: unused hair 4 right front 2 item_holsterright
+    402880: unused hair 4 right front 3 item_handgunleft
+    402882: unused hair 4 right front 3 item_handgunright
+    402884: unused hair 4 right front 3 item_holsterleft
+    402886: unused hair 4 right front 3 item_holsterright
+    402888: unused hair 4 right front 4 item_handgunleft
+    402890: unused hair 4 right front 4 item_handgunright
+    402892: unused hair 4 right front 4 item_holsterleft
+    402894: unused hair 4 right front 4 item_holsterright
+    402896: unused hair 4 right front 5 item_handgunleft
+    402898: unused hair 4 right front 5 item_handgunleft_end
+    402900: unused hair 4 right front 5 item_handgunright
+    402902: unused hair 4 right front 5 item_handgunright_end
+    402904: unused hair 4 right front 5 item_holsterleft
+    402906: unused hair 4 right front 5 item_holsterleft_end
+    402908: unused hair 4 right front 5 item_holsterright
+    402910: unused hair 4 right front 5 item_holsterright_end
+    402912: unused hair front left item_Arms
+    402914: unused hair front left item_handgunleft
+    402916: unused hair front left item_handgunright
+    402918: unused hair front left item_holsterleft
+    402920: unused hair front left item_holsterright
+    402922: unused hair front right item_Arms
+    402924: unused hair front right item_handgunleft
+    402926: unused hair front right item_handgunright
+    402928: unused hair front right item_holsterleft
+    402930: unused hair front right item_holsterright
+    402932: unused hair ponytail 0 item_Arms
+    402934: unused hair ponytail 0 item_handgunleft
+    402936: unused hair ponytail 0 item_handgunright
+    402938: unused hair ponytail 0 item_holsterleft
+    402940: unused hair ponytail 0 item_holsterright
+    402942: unused hair ponytail 1 item_Arms
+    402944: unused hair ponytail 1 item_handgunleft
+    402946: unused hair ponytail 1 item_handgunright
+    402948: unused hair ponytail 1 item_holsterleft
+    402950: unused hair ponytail 1 item_holsterright
+    402952: unused hair ponytail 10 item_handgunleft
+    402954: unused hair ponytail 10 item_handgunright
+    402956: unused hair ponytail 10 item_holsterleft
+    402958: unused hair ponytail 10 item_holsterright
+    402960: unused hair ponytail 11 item_handgunleft
+    402962: unused hair ponytail 11 item_handgunleft_end
+    402964: unused hair ponytail 11 item_handgunright
+    402966: unused hair ponytail 11 item_handgunright_end
+    402968: unused hair ponytail 11 item_holsterleft
+    402970: unused hair ponytail 11 item_holsterleft_end
+    402972: unused hair ponytail 11 item_holsterright
+    402974: unused hair ponytail 11 item_holsterright_end
+    402976: unused hair ponytail 2 item_Arms
+    402978: unused hair ponytail 2 item_handgunleft
+    402980: unused hair ponytail 2 item_handgunright
+    402982: unused hair ponytail 2 item_holsterleft
+    402984: unused hair ponytail 2 item_holsterright
+    402986: unused hair ponytail 3 item_Arms
+    402988: unused hair ponytail 3 item_handgunleft
+    402990: unused hair ponytail 3 item_handgunright
+    402992: unused hair ponytail 3 item_holsterleft
+    402994: unused hair ponytail 3 item_holsterright
+    402996: unused hair ponytail 4 item_Arms
+    402998: unused hair ponytail 4 item_handgunleft
+    403000: unused hair ponytail 4 item_handgunright
+    403002: unused hair ponytail 4 item_holsterleft
+    403004: unused hair ponytail 4 item_holsterright
+    403006: unused hair ponytail 5 item_Arms
+    403008: unused hair ponytail 5 item_handgunleft
+    403010: unused hair ponytail 5 item_handgunright
+    403012: unused hair ponytail 5 item_holsterleft
+    403014: unused hair ponytail 5 item_holsterright
+    403016: unused hair ponytail 6 item_Arms
+    403018: unused hair ponytail 7 item_Arms
+    403020: unused hair ponytail 7 item_Arms_end
+    403022: unused hair ponytail 7 item_handgunleft
+    403024: unused hair ponytail 7 item_handgunright
+    403026: unused hair ponytail 7 item_holsterleft
+    403028: unused hair ponytail 7 item_holsterright
+    403030: unused hair ponytail 8 item_handgunleft
+    403032: unused hair ponytail 8 item_handgunright
+    403034: unused hair ponytail 8 item_holsterleft
+    403036: unused hair ponytail 8 item_holsterright
+    403038: unused hair ponytail 9 item_handgunleft
+    403040: unused hair ponytail 9 item_handgunright
+    403042: unused hair ponytail 9 item_holsterleft
+    403044: unused hair ponytail 9 item_holsterright
+    403046: unused head cheek left 1 item_Arms
+    403048: unused head cheek left 1 item_Arms_end
+    403050: unused head cheek left 2 item_Arms
+    403052: unused head cheek left 2 item_Arms_end
+    403054: unused head cheek right 1 item_Arms
+    403056: unused head cheek right 1 item_Arms_end
+    403058: unused head cheek right 2 item_Arms
+    403060: unused head cheek right 2 item_Arms_end
+    403062: unused head eyeball left item_Arms
+    403064: unused head eyeball left item_Arms_end
+    403066: unused head eyeball left item_handgunleft
+    403068: unused head eyeball left item_handgunleft_end
+    403070: unused head eyeball left item_handgunright
+    403072: unused head eyeball left item_handgunright_end
+    403074: unused head eyeball left item_holsterleft
+    403076: unused head eyeball left item_holsterleft_end
+    403078: unused head eyeball left item_holsterright
+    403080: unused head eyeball left item_holsterright_end
+    403082: unused head eyeball right item_Arms
+    403084: unused head eyeball right item_Arms_end
+    403086: unused head eyeball right item_handgunleft
+    403088: unused head eyeball right item_handgunleft_end
+    403090: unused head eyeball right item_handgunright
+    403092: unused head eyeball right item_handgunright_end
+    403094: unused head eyeball right item_holsterleft
+    403096: unused head eyeball right item_holsterleft_end
+    403098: unused head eyeball right item_holsterright
+    403100: unused head eyeball right item_holsterright_end
+    403102: unused head eyebrow left 1 item_Arms
+    403104: unused head eyebrow left 1 item_Arms_end
+    403106: unused head eyebrow left 1 item_handgunleft
+    403108: unused head eyebrow left 1 item_handgunleft_end
+    403110: unused head eyebrow left 1 item_handgunright
+    403112: unused head eyebrow left 1 item_handgunright_end
+    403114: unused head eyebrow left 1 item_holsterleft
+    403116: unused head eyebrow left 1 item_holsterleft_end
+    403118: unused head eyebrow left 1 item_holsterright
+    403120: unused head eyebrow left 1 item_holsterright_end
+    403122: unused head eyebrow left 2 item_Arms
+    403124: unused head eyebrow left 2 item_Arms_end
+    403126: unused head eyebrow left 2 item_handgunleft
+    403128: unused head eyebrow left 2 item_handgunleft_end
+    403130: unused head eyebrow left 2 item_handgunright
+    403132: unused head eyebrow left 2 item_handgunright_end
+    403134: unused head eyebrow left 2 item_holsterleft
+    403136: unused head eyebrow left 2 item_holsterleft_end
+    403138: unused head eyebrow left 2 item_holsterright
+    403140: unused head eyebrow left 2 item_holsterright_end
+    403142: unused head eyebrow left 3 item_Arms
+    403144: unused head eyebrow left 3 item_Arms_end
+    403146: unused head eyebrow left 3 item_handgunleft
+    403148: unused head eyebrow left 3 item_handgunleft_end
+    403150: unused head eyebrow left 3 item_handgunright
+    403152: unused head eyebrow left 3 item_handgunright_end
+    403154: unused head eyebrow left 3 item_holsterleft
+    403156: unused head eyebrow left 3 item_holsterleft_end
+    403158: unused head eyebrow left 3 item_holsterright
+    403160: unused head eyebrow left 3 item_holsterright_end
+    403162: unused head eyebrow right 1 item_Arms
+    403164: unused head eyebrow right 1 item_Arms_end
+    403166: unused head eyebrow right 1 item_handgunleft
+    403168: unused head eyebrow right 1 item_handgunleft_end
+    403170: unused head eyebrow right 1 item_handgunright
+    403172: unused head eyebrow right 1 item_handgunright_end
+    403174: unused head eyebrow right 1 item_holsterleft
+    403176: unused head eyebrow right 1 item_holsterleft_end
+    403178: unused head eyebrow right 1 item_holsterright
+    403180: unused head eyebrow right 1 item_holsterright_end
+    403182: unused head eyebrow right 2 item_Arms
+    403184: unused head eyebrow right 2 item_Arms_end
+    403186: unused head eyebrow right 2 item_handgunleft
+    403188: unused head eyebrow right 2 item_handgunleft_end
+    403190: unused head eyebrow right 2 item_handgunright
+    403192: unused head eyebrow right 2 item_handgunright_end
+    403194: unused head eyebrow right 2 item_holsterleft
+    403196: unused head eyebrow right 2 item_holsterleft_end
+    403198: unused head eyebrow right 2 item_holsterright
+    403200: unused head eyebrow right 2 item_holsterright_end
+    403202: unused head eyebrow right 3 item_Arms
+    403204: unused head eyebrow right 3 item_Arms_end
+    403206: unused head eyebrow right 3 item_handgunleft
+    403208: unused head eyebrow right 3 item_handgunleft_end
+    403210: unused head eyebrow right 3 item_handgunright
+    403212: unused head eyebrow right 3 item_handgunright_end
+    403214: unused head eyebrow right 3 item_holsterleft
+    403216: unused head eyebrow right 3 item_holsterleft_end
+    403218: unused head eyebrow right 3 item_holsterright
+    403220: unused head eyebrow right 3 item_holsterright_end
+    403222: unused head eyelid left lower item_Arms
+    403224: unused head eyelid left lower item_Arms_end
+    403226: unused head eyelid left lower item_handgunleft
+    403228: unused head eyelid left lower item_handgunleft_end
+    403230: unused head eyelid left lower item_handgunright
+    403232: unused head eyelid left lower item_handgunright_end
+    403234: unused head eyelid left lower item_holsterleft
+    403236: unused head eyelid left lower item_holsterleft_end
+    403238: unused head eyelid left lower item_holsterright
+    403240: unused head eyelid left lower item_holsterright_end
+    403242: unused head eyelid left upper item_Arms
+    403244: unused head eyelid left upper item_Arms_end
+    403246: unused head eyelid left upper item_handgunleft
+    403248: unused head eyelid left upper item_handgunleft_end
+    403250: unused head eyelid left upper item_handgunright
+    403252: unused head eyelid left upper item_handgunright_end
+    403254: unused head eyelid left upper item_holsterleft
+    403256: unused head eyelid left upper item_holsterleft_end
+    403258: unused head eyelid left upper item_holsterright
+    403260: unused head eyelid left upper item_holsterright_end
+    403262: unused head eyelid right lower item_Arms
+    403264: unused head eyelid right lower item_Arms_end
+    403266: unused head eyelid right lower item_handgunleft
+    403268: unused head eyelid right lower item_handgunleft_end
+    403270: unused head eyelid right lower item_handgunright
+    403272: unused head eyelid right lower item_handgunright_end
+    403274: unused head eyelid right lower item_holsterleft
+    403276: unused head eyelid right lower item_holsterleft_end
+    403278: unused head eyelid right lower item_holsterright
+    403280: unused head eyelid right lower item_holsterright_end
+    403282: unused head eyelid right upper item_Arms
+    403284: unused head eyelid right upper item_Arms_end
+    403286: unused head eyelid right upper item_handgunleft
+    403288: unused head eyelid right upper item_handgunleft_end
+    403290: unused head eyelid right upper item_handgunright
+    403292: unused head eyelid right upper item_handgunright_end
+    403294: unused head eyelid right upper item_holsterleft
+    403296: unused head eyelid right upper item_holsterleft_end
+    403298: unused head eyelid right upper item_holsterright
+    403300: unused head eyelid right upper item_holsterright_end
+    403302: unused head jaw item_Arms
+    403304: unused head jaw item_handgunleft
+    403306: unused head jaw item_handgunright
+    403308: unused head jaw item_holsterleft
+    403310: unused head jaw item_holsterright
+    403312: unused head lip lower left item_Arms
+    403314: unused head lip lower left item_Arms_end
+    403316: unused head lip lower left item_handgunleft
+    403318: unused head lip lower left item_handgunleft_end
+    403320: unused head lip lower left item_handgunright
+    403322: unused head lip lower left item_handgunright_end
+    403324: unused head lip lower left item_holsterleft
+    403326: unused head lip lower left item_holsterleft_end
+    403328: unused head lip lower left item_holsterright
+    403330: unused head lip lower left item_holsterright_end
+    403332: unused head lip lower middle item_Arms
+    403334: unused head lip lower middle item_Arms_end
+    403336: unused head lip lower middle item_handgunleft
+    403338: unused head lip lower middle item_handgunleft_end
+    403340: unused head lip lower middle item_handgunright
+    403342: unused head lip lower middle item_handgunright_end
+    403344: unused head lip lower middle item_holsterleft
+    403346: unused head lip lower middle item_holsterleft_end
+    403348: unused head lip lower middle item_holsterright
+    403350: unused head lip lower middle item_holsterright_end
+    403352: unused head lip lower right item_Arms
+    403354: unused head lip lower right item_Arms_end
+    403356: unused head lip lower right item_handgunleft
+    403358: unused head lip lower right item_handgunleft_end
+    403360: unused head lip lower right item_handgunright
+    403362: unused head lip lower right item_handgunright_end
+    403364: unused head lip lower right item_holsterleft
+    403366: unused head lip lower right item_holsterleft_end
+    403368: unused head lip lower right item_holsterright
+    403370: unused head lip lower right item_holsterright_end
+    403372: unused head lip upper left item_Arms
+    403374: unused head lip upper left item_Arms_end
+    403376: unused head lip upper left item_handgunleft
+    403378: unused head lip upper left item_handgunleft_end
+    403380: unused head lip upper left item_handgunright
+    403382: unused head lip upper left item_handgunright_end
+    403384: unused head lip upper left item_holsterleft
+    403386: unused head lip upper left item_holsterleft_end
+    403388: unused head lip upper left item_holsterright
+    403390: unused head lip upper left item_holsterright_end
+    403392: unused head lip upper middle item_Arms
+    403394: unused head lip upper middle item_Arms_end
+    403396: unused head lip upper middle item_handgunleft
+    403398: unused head lip upper middle item_handgunleft_end
+    403400: unused head lip upper middle item_handgunright
+    403402: unused head lip upper middle item_handgunright_end
+    403404: unused head lip upper middle item_holsterleft
+    403406: unused head lip upper middle item_holsterleft_end
+    403408: unused head lip upper middle item_holsterright
+    403410: unused head lip upper middle item_holsterright_end
+    403412: unused head lip upper right item_Arms
+    403414: unused head lip upper right item_Arms_end
+    403416: unused head lip upper right item_handgunleft
+    403418: unused head lip upper right item_handgunleft_end
+    403420: unused head lip upper right item_handgunright
+    403422: unused head lip upper right item_handgunright_end
+    403424: unused head lip upper right item_holsterleft
+    403426: unused head lip upper right item_holsterleft_end
+    403428: unused head lip upper right item_holsterright
+    403430: unused head lip upper right item_holsterright_end
+    403432: unused head mouth corner left item_Arms
+    403434: unused head mouth corner left item_Arms_end
+    403436: unused head mouth corner left item_handgunleft
+    403438: unused head mouth corner left item_handgunleft_end
+    403440: unused head mouth corner left item_handgunright
+    403442: unused head mouth corner left item_handgunright_end
+    403444: unused head mouth corner left item_holsterleft
+    403446: unused head mouth corner left item_holsterleft_end
+    403448: unused head mouth corner left item_holsterright
+    403450: unused head mouth corner left item_holsterright_end
+    403452: unused head mouth corner right item_Arms
+    403454: unused head mouth corner right item_Arms_end
+    403456: unused head mouth corner right item_handgunleft
+    403458: unused head mouth corner right item_handgunleft_end
+    403460: unused head mouth corner right item_handgunright
+    403462: unused head mouth corner right item_handgunright_end
+    403464: unused head mouth corner right item_holsterleft
+    403466: unused head mouth corner right item_holsterleft_end
+    403468: unused head mouth corner right item_holsterright
+    403470: unused head mouth corner right item_holsterright_end
+    403472: unused head neck lower item_Arms
+    403474: unused head neck lower item_handgunleft
+    403476: unused head neck lower item_handgunright
+    403478: unused head neck lower item_holsterleft
+    403480: unused head neck lower item_holsterright
+    403482: unused head neck upper item_Arms
+    403484: unused head neck upper item_handgunleft
+    403486: unused head neck upper item_handgunright
+    403488: unused head neck upper item_holsterleft
+    403490: unused head neck upper item_holsterright
+    403492: unused head nostril left item_Arms
+    403494: unused head nostril left item_Arms_end
+    403496: unused head nostril right item_Arms
+    403498: unused head nostril right item_Arms_end
+    403500: unused head tongue 1 item_Arms
+    403502: unused head tongue 2 item_Arms
+    403504: unused head tongue 2 item_Arms_end
+    403506: unused leg left ankle item_Arms
+    403508: unused leg left ankle item_handgunleft
+    403510: unused leg left ankle item_handgunright
+    403512: unused leg left ankle item_holsterleft
+    403514: unused leg left ankle item_holsterright
+    403516: unused leg left knee item_Arms
+    403518: unused leg left knee item_handgunleft
+    403520: unused leg left knee item_handgunright
+    403522: unused leg left knee item_holsterleft
+    403524: unused leg left knee item_holsterright
+    403526: unused leg left thigh attached_holsterleft root ground
+    403528: unused leg left thigh attached_holsterleft root hips
+    403530: unused leg left thigh item_Arms
+    403532: unused leg left thigh item_handgunleft
+    403534: unused leg left thigh item_handgunright
+    403536: unused leg left thigh item_holsterright
+    403538: unused leg left toes item_Arms
+    403540: unused leg left toes item_handgunleft
+    403542: unused leg left toes item_handgunleft_end
+    403544: unused leg left toes item_handgunright
+    403546: unused leg left toes item_handgunright_end
+    403548: unused leg left toes item_holsterleft
+    403550: unused leg left toes item_holsterleft_end
+    403552: unused leg left toes item_holsterright
+    403554: unused leg left toes item_holsterright_end
+    403556: unused leg right ankle item_Arms
+    403558: unused leg right ankle item_handgunleft
+    403560: unused leg right ankle item_handgunright
+    403562: unused leg right ankle item_holsterleft
+    403564: unused leg right ankle item_holsterright
+    403566: unused leg right knee item_Arms
+    403568: unused leg right knee item_handgunleft
+    403570: unused leg right knee item_handgunright
+    403572: unused leg right knee item_holsterleft
+    403574: unused leg right knee item_holsterright
+    403576: unused leg right thigh attached_holsterright root ground
+    403578: unused leg right thigh attached_holsterright root hips
+    403580: unused leg right thigh item_Arms
+    403582: unused leg right thigh item_handgunleft
+    403584: unused leg right thigh item_handgunright
+    403586: unused leg right thigh item_holsterleft
+    403588: unused leg right toes item_Arms
+    403590: unused leg right toes item_handgunleft
+    403592: unused leg right toes item_handgunleft_end
+    403594: unused leg right toes item_handgunright
+    403596: unused leg right toes item_handgunright_end
+    403598: unused leg right toes item_holsterleft
+    403600: unused leg right toes item_holsterleft_end
+    403602: unused leg right toes item_holsterright
+    403604: unused leg right toes item_holsterright_end
+    403606: unused pelvis item_Arms
+    403608: unused pelvis item_handgunleft
+    403610: unused pelvis item_handgunright
+    403612: unused pelvis item_holsterleft
+    403614: unused pelvis item_holsterright
+    403616: unused spine lower item_Arms
+    403618: unused spine lower item_handgunleft
+    403620: unused spine lower item_handgunright
+    403622: unused spine lower item_holsterleft
+    403624: unused spine lower item_holsterright
+    403626: unused spine upper attached_arms root ground
+    403628: unused spine upper item_Arms
+    403630: unused spine upper item_handgunleft
+    403632: unused spine upper item_handgunright
+    403634: unused spine upper item_holsterleft
+    403636: unused spine upper item_holsterright
+    403638: unused003 item_Arms
+    403640: unused009 item_Arms
+    403642: unused009 item_Arms_end
+    403644: unused014 item_Arms
+    403646: unused014 item_Arms_end
+    403648: unused019 item_Arms
+    403650: unused019 item_Arms_end
+    403652: unused033 item_Arms
+    403654: unused033 item_Arms_end
+    403656: unused072 item_Arms
+    403658: unused072 item_Arms_end
+    403660: unused073 item_Arms
+    403662: unused073 item_Arms_end
+    403664: unused074 item_Arms
+    403666: unused075 item_Arms
+    403668: unused076 item_Arms
+    403670: unused076 item_Arms_end
+    403672: unused077 item_Arms
+    403674: unused077 item_Arms_end
+    403676: unused097 item_Arms
+    403678: unused097 item_Arms_end
+    403680: unused098 item_Arms
+    403682: unused098 item_Arms_end
+    403684: unused099 item_Arms
+    403686: unused100 item_Arms
+    403688: unused101 item_Arms
+    403690: unused101 item_Arms_end
+    403692: unused102 item_Arms
+    403694: unused102 item_Arms_end
+    403696: unused104 item_Arms
+    403698: unused104 item_Arms_end
+    403700: unused106 item_Arms
+    403702: unused106 item_Arms_end
+    403704: unused107 item_Arms
+    403706: unused107 item_Arms_end
+    403708: unused108 item_Arms
+    403710: unused108 item_Arms_end
+    403712: unused109 item_Arms
+    403714: unused109 item_Arms_end
+    403716: unused110 item_Arms
+    403718: unused110 item_Arms_end
+    403720: unused111 item_Arms
+    403722: unused111 item_Arms_end
+    403724: unused112 item_Arms
+    403726: unused112 item_Arms_end
+    403728: unused113 item_Arms
+    403730: unused113 item_Arms_end
+    403732: unused124 item_Arms
+    403734: unused124 item_Arms_end
+    403736: unused125 item_Arms
+    403738: unused125 item_Arms_end
+    403740: unused126 item_Arms
+    403742: unused126 item_Arms_end
+    403744: unused127 item_Arms
+    403746: unused127 item_Arms_end
+    403748: unused128 item_Arms
+    403750: unused128 item_Arms_end
+    403752: unused129 item_Arms
+    403754: unused129 item_Arms_end
+    403756: unused130 item_Arms
+    403758: unused130 item_Arms_end
+    403760: unused131 item_Arms
+    403762: unused131 item_Arms_end
+    403764: unused132 item_Arms
+    403766: unused132 item_Arms_end
+    403768: unused133 item_Arms
+    403770: unused133 item_Arms_end
+    403772: unused134 item_Arms
+    403774: unused134 item_Arms_end
+    403776: unused135 item_Arms
+    403778: unused135 item_Arms_end
+    403780: unused136 item_Arms
+    403782: unused136 item_Arms_end
+    403784: unused137 item_Arms
+    403786: unused137 item_Arms_end
+    403788: unused138 item_Arms
+    403790: unused138 item_Arms_end
+    403792: unused139 item_Arms
+    403794: unused139 item_Arms_end
+    403796: unused140 item_Arms
+    403798: unused140 item_Arms_end
+    403800: unused141 item_Arms
+    403802: unused141 item_Arms_end
+    403804: unused142 item_Arms
+    403806: unused142 item_Arms_end
+    403808: unused143 item_Arms
+    403810: unused143 item_Arms_end
+    403812: unused144 item_Arms
+    403814: unused144 item_Arms_end
+    403816: unused145 item_Arms
+    403818: unused145 item_Arms_end
+    403820: unused146 item_Arms
+    403822: unused146 item_Arms_end
+    403824: unused147 item_Arms
+    403826: unused147 item_Arms_end
+    403828: unused148 item_Arms
+    403830: unused148 item_Arms_end
+    403832: unused149 item_Arms
+    403834: unused149 item_Arms_end
+    403836: unused150 item_Arms
+    403838: unused150 item_Arms_end
+    403840: unused151 item_Arms
+    403842: unused151 item_Arms_end
+    403844: unused152 item_Arms
+    403846: unused152 item_Arms_end
+    403848: unused153 item_Arms
+    403850: unused153 item_Arms_end
     2100000: handgunholsterright__gunside_1__png
     2100002: handgunholsterleft__gunside_1__png
     2100004: handgunhandright__gunside_1__png
@@ -1703,6 +3919,27 @@ ModelImporter:
     4300058: 20_glove2_0_5_100_0
     4300060: 20_boots_0_1_25_0
     4300062: 20_black_0_5_50_5
+    4300064: 8_legs_0.05_0_0
+    4300066: 8_face_0.05_0_0
+    4300068: 8_armsthumb_0.1_0_0
+    4300070: 8_armsSnap_0.1_0_0
+    4300072: 8_armsSnap2_0.1_0_0
+    4300074: 6_skin_0.05_0_0
+    4300076: 6_nail_0.5_0_0
+    4300078: 6_handup_0.05_0_0
+    4300080: 6_brown_0.2_0_0
+    4300082: 6_arms_0.05_0_0
+    4300084: 27_shirt_0.1_0_0
+    4300086: 27_mouth_0.1_0_0
+    4300088: 27_metal_0.2_0_0
+    4300090: 27_eyes_0.2_0_0
+    4300092: 20_socks_0.1_5_0
+    4300094: 20_shorts_0.1_6_0
+    4300096: 20_lace_0.2_0.3_0
+    4300098: 20_glove_0.5_1.1_0
+    4300100: 20_glove2_0.5_100_0
+    4300102: 20_boots_0.1_25_0
+    4300104: 20_black_0.5_50_5
     7400000: Default Take
     9500000: //RootNode
     13700000: 20_black_0_5_50_5
@@ -1737,7 +3974,34 @@ ModelImporter:
     13700058: handgunhandright
     13700060: handgunholsterleft
     13700062: handgunholsterright
+    13700064: 20_black_0.5_50_5
+    13700066: 20_boots_0.1_25_0
+    13700068: 20_glove2_0.5_100_0
+    13700070: 20_glove_0.5_1.1_0
+    13700072: 20_lace_0.2_0.3_0
+    13700074: 20_shorts_0.1_6_0
+    13700076: 20_socks_0.1_5_0
+    13700078: 27_eyes_0.2_0_0
+    13700080: 27_metal_0.2_0_0
+    13700082: 27_mouth_0.1_0_0
+    13700084: 27_shirt_0.1_0_0
+    13700086: 6_arms_0.05_0_0
+    13700088: 6_brown_0.2_0_0
+    13700090: 6_handup_0.05_0_0
+    13700092: 6_nail_0.5_0_0
+    13700094: 6_skin_0.05_0_0
+    13700096: 8_armsSnap2_0.1_0_0
+    13700098: 8_armsSnap_0.1_0_0
+    13700100: 8_armsthumb_0.1_0_0
+    13700102: 8_face_0.05_0_0
+    13700104: 8_legs_0.05_0_0
+    2186277476908879412: ImportLogs
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20_black_0.5_50_5
+    second: {fileID: 2100000, guid: 6c3b82717712f73459adbf571ac1d62a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1746,8 +4010,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 20_boots_0.1_25_0
+    second: {fileID: 2100000, guid: aa54eda4ac11e7341814956b40157334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 20_boots_0_1_25_0__boots_png
     second: {fileID: 2100000, guid: d8a171006efd9f54cac3fe452ad3af9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20_glove2_0.5_100_0
+    second: {fileID: 2100000, guid: 8a015e6d7325a284d93de71adb3bd53f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1756,8 +4030,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 20_glove_0.5_1.1_0
+    second: {fileID: 2100000, guid: 80c892f2331f2e849b91a277e732e9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 20_glove_0_5_1_1_0__leath_jpg
     second: {fileID: 2100000, guid: 4739fefda4bd9a44b92b1854b3f8935d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20_lace_0.2_0.3_0
+    second: {fileID: 2100000, guid: 0dde3846c4e2ed44e95c9cf45ae2ddc1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1766,8 +4050,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 20_shorts_0.1_6_0
+    second: {fileID: 2100000, guid: aecacce244f02494bab8ce38f5fb3367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 20_shorts_0_1_6_0__shorts_png
     second: {fileID: 2100000, guid: 4ebc6fe27bac82a41970444c0060d264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20_socks_0.1_5_0
+    second: {fileID: 2100000, guid: 15eac70b71fa98d48bdefcbbc276d452, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1776,8 +4070,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 27_eyes_0.2_0_0
+    second: {fileID: 2100000, guid: cf7ed0bee9bfd6a418442e043e871b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 27_eyes_0_2_0_0__eyebig1_bmp
     second: {fileID: 2100000, guid: fb487000b0ad6b349826045c32588636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27_metal_0.2_0_0
+    second: {fileID: 2100000, guid: 47dff007baa946b459a07b75c309b33e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1786,8 +4090,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 27_mouth_0.1_0_0
+    second: {fileID: 2100000, guid: a1880d6ef439f924196153c9b2dfcc5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 27_mouth_0_1_0_0__mouth_diffuse_png
     second: {fileID: 2100000, guid: 62ccf52a58058094e83831c2b9dfe87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27_shirt_0.1_0_0
+    second: {fileID: 2100000, guid: 8bb550856c561b2469d45ca07a27ce1a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1796,8 +4110,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 6_arms_0.05_0_0
+    second: {fileID: 2100000, guid: bf11b6319c9d4af468260d02a1395fbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 6_arms_0_05_0_0__skin_png
     second: {fileID: 2100000, guid: 731d506c94663e24eb400a03e750068f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6_brown_0.2_0_0
+    second: {fileID: 2100000, guid: 1f30041ced8b13241a18ce9e181a6fea, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1806,8 +4130,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 6_handup_0.05_0_0
+    second: {fileID: 2100000, guid: 28496fd13510f8243911ee864ed3b84b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 6_handup_0_05_0_0__handupd_jpg
     second: {fileID: 2100000, guid: ddff0e1656df1e64c889e867d6f36bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6_nail_0.5_0_0
+    second: {fileID: 2100000, guid: ff3580b3d1b194d47a095989d2a6e0ad, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1816,8 +4150,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 6_skin_0.05_0_0
+    second: {fileID: 2100000, guid: 9584c76468d4844428d3c3e652d32f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 6_skin_0_05_0_0__skin_png
     second: {fileID: 2100000, guid: 731d506c94663e24eb400a03e750068f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_braid_0_0_0
+    second: {fileID: 2100000, guid: cf86a3671c5623c49bc226edce9552a7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1826,8 +4170,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 7_eyeblack_0_0_0
+    second: {fileID: 2100000, guid: aa8bdf6110e84724d98948eb0276a256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 7_eyeblack_0_0_0__eye_png
     second: {fileID: 2100000, guid: 6937aefc089475c459b8421be2fe0993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_eyebrows_0_0_0
+    second: {fileID: 2100000, guid: b071aaa6556486a4dbea80fdb4770677, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1836,8 +4190,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 7_hairLeft_0_0_0
+    second: {fileID: 2100000, guid: ddae7cd1189d8334db42ea5d5770b5fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 7_hairLeft_0_0_0__hair_png
     second: {fileID: 2100000, guid: 7f26e549cb6dc354e817a235f2a066fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_hairRight_0_0_0
+    second: {fileID: 2100000, guid: 41396e8dfd9b0ac4492747a880bd9dbd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1846,8 +4210,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 7_lashes_0_0_0
+    second: {fileID: 2100000, guid: b35d40b60070e914ab74587878446614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 7_lashes_0_0_0__lash_png
     second: {fileID: 2100000, guid: 81e1560aefa7d87419f794ad1b2ce474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_skin_0_0_0
+    second: {fileID: 2100000, guid: 5ea011070d5e0514ea29cbbe49a51767, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1856,8 +4230,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 8_armsSnap2_0.1_0_0
+    second: {fileID: 2100000, guid: cdbb26e77f690da4099ace7c98fe9e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 8_armsSnap2_0_1_0_0__metal2_png
     second: {fileID: 2100000, guid: d7289b9296507a640bd3dd40cf644a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8_armsSnap_0.1_0_0
+    second: {fileID: 2100000, guid: 32a5c99fa63c0604fa8750e73b5203f9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1866,8 +4250,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 8_armsthumb_0.1_0_0
+    second: {fileID: 2100000, guid: da150d280a8f80b41ae1bb45c793c1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 8_armsthumb_0_1_0_0__skin_png
     second: {fileID: 2100000, guid: 731d506c94663e24eb400a03e750068f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8_face_0.05_0_0
+    second: {fileID: 2100000, guid: 56a4ff552c2eec841a73ed77f3f076dd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1876,8 +4270,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 8_legs_0.05_0_0
+    second: {fileID: 2100000, guid: 860fb3212b204d046ba4f0221d7306c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 8_legs_0_05_0_0__skin_png
     second: {fileID: 2100000, guid: 731d506c94663e24eb400a03e750068f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handgunhandleft
+    second: {fileID: 2100000, guid: f852625d7cd96734da2560222a45f633, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1886,13 +4290,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: handgunhandright
+    second: {fileID: 2100000, guid: b98708f885b84264cbff4189d623a950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: handgunhandright__gunside_1__png
     second: {fileID: 2100000, guid: af9a8dc20e3f67743921b18b133d2c66, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: handgunholsterleft
+    second: {fileID: 2100000, guid: 41868241dca522445a23253fe883b012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: handgunholsterleft__gunside_1__png
     second: {fileID: 2100000, guid: af9a8dc20e3f67743921b18b133d2c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handgunholsterright
+    second: {fileID: 2100000, guid: 419a975d8a82ce14aa67218a63ff815c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1909,7 +4328,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'root_hips' for human bone
+      'Hips' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -1931,6 +4351,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -1948,11 +4369,16 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -6529,7 +8955,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1

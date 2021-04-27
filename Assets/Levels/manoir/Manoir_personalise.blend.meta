@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 8a486eb77ece91942bb6b87a5afc200f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cube.001
+    100006: Circle
+    100008: Cube.002
+    100010: SEGUNDO ANDAR HALL
+    100012: 'CHAO HALL '
+    100014: ESCADA HALL
+    100016: CHAO HALL .001
+    100018: CHAO HALL .002
+    100020: ESCADA HALL.001
+    100022: ESCADA HALL.002
+    100024: tapete hall
+    100026: Tapete Hall
+    100028: Tapete Hall.001
+    100030: Cube.003
+    100032: Cube.004
+    100034: Cube.005
+    100036: Cube.006
+    100038: Cube.007
+    100040: Cube.008
+    100042: Cube.009
+    100044: Cube.010
+    100046: Cube.011
+    100048: Cube.012
+    100050: Cube.013
+    100052: Cube.014
+    100054: Cube.015
+    100056: Cube.016
+    400000: //RootNode
+    400002: Cube
+    400004: Cube.001
+    400006: Circle
+    400008: Cube.002
+    400010: SEGUNDO ANDAR HALL
+    400012: 'CHAO HALL '
+    400014: ESCADA HALL
+    400016: CHAO HALL .001
+    400018: CHAO HALL .002
+    400020: ESCADA HALL.001
+    400022: ESCADA HALL.002
+    400024: tapete hall
+    400026: Tapete Hall
+    400028: Tapete Hall.001
+    400030: Cube.003
+    400032: Cube.004
+    400034: Cube.005
+    400036: Cube.006
+    400038: Cube.007
+    400040: Cube.008
+    400042: Cube.009
+    400044: Cube.010
+    400046: Cube.011
+    400048: Cube.012
+    400050: Cube.013
+    400052: Cube.014
+    400054: Cube.015
+    400056: Cube.016
+    2100000: Material
+    2100002: No Name
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Circle
+    2300008: Cube.002
+    2300010: SEGUNDO ANDAR HALL
+    2300012: 'CHAO HALL '
+    2300014: ESCADA HALL
+    2300016: CHAO HALL .001
+    2300018: CHAO HALL .002
+    2300020: ESCADA HALL.001
+    2300022: ESCADA HALL.002
+    2300024: tapete hall
+    2300026: Tapete Hall
+    2300028: Tapete Hall.001
+    2300030: Cube.003
+    2300032: Cube.004
+    2300034: Cube.005
+    2300036: Cube.006
+    2300038: Cube.007
+    2300040: Cube.008
+    2300042: Cube.009
+    2300044: Cube.010
+    2300046: Cube.011
+    2300048: Cube.012
+    2300050: Cube.013
+    2300052: Cube.014
+    2300054: Cube.015
+    2300056: Cube.016
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Circle
+    3300008: Cube.002
+    3300010: SEGUNDO ANDAR HALL
+    3300012: 'CHAO HALL '
+    3300014: ESCADA HALL
+    3300016: CHAO HALL .001
+    3300018: CHAO HALL .002
+    3300020: ESCADA HALL.001
+    3300022: ESCADA HALL.002
+    3300024: tapete hall
+    3300026: Tapete Hall
+    3300028: Tapete Hall.001
+    3300030: Cube.003
+    3300032: Cube.004
+    3300034: Cube.005
+    3300036: Cube.006
+    3300038: Cube.007
+    3300040: Cube.008
+    3300042: Cube.009
+    3300044: Cube.010
+    3300046: Cube.011
+    3300048: Cube.012
+    3300050: Cube.013
+    3300052: Cube.014
+    3300054: Cube.015
+    3300056: Cube.016
+    4300000: Cube
+    4300002: Cube.001
+    4300004: Circle
+    4300006: Cube.002
+    4300008: SEGUNDO ANDAR HALL
+    4300010: 'CHAO HALL '
+    4300012: ESCADA HALL
+    4300014: CHAO HALL .001
+    4300016: CHAO HALL .002
+    4300018: ESCADA HALL.001
+    4300020: ESCADA HALL.002
+    4300022: tapete hall
+    4300024: Tapete Hall
+    4300026: Tapete Hall.001
+    4300028: Cube.003
+    4300030: Cube.004
+    4300032: Cube.005
+    4300034: Cube.006
+    4300036: Cube.007
+    4300038: Cube.008
+    4300040: Cube.009
+    4300042: Cube.010
+    4300044: Cube.011
+    4300046: Cube.012
+    4300048: Cube.013
+    4300050: Cube.014
+    4300052: Cube.015
+    4300054: Cube.016
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
